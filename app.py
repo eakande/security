@@ -29,9 +29,9 @@ app.layout = html.Div(
                     children=" CAPE Economic Research and Consulting Insecurity Tracker", className="header-title"
                 ),
                 html.P(
-                    children="State-by-state insecurity tracker in Nigeria",
-                    "",
-                    "from 2011 till date",
+                    children="State-by-state insecurity tracker in Nigeria"
+                    ""
+                    " from 2011 till date",
                     className="header-description",
                 ),
             ],
