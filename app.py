@@ -48,7 +48,7 @@ app.layout = html.Div(
                                 {"label": state, "value": state}
                                 for state in np.sort(data.state.unique())
                             ],
-                            value="",
+                            value="Adamawa",
                             clearable=False,
                             className="dropdown",
                         ),
@@ -56,14 +56,14 @@ app.layout = html.Div(
                 ),
                 html.Div(
                     children=[
-                        html.Div(children="Type", className="menu-title"),
+                        html.Div(children=" Violence Type", className="menu-title"),
                         dcc.Dropdown(
                             id="type-filter",
                             options=[
                                 {"label": violence_type, "value": violence_type}
                                 for violence_type in data.type.unique()
                             ],
-                            value="Adamawa",
+                            value="Boko Haram",
                             clearable=False,
                             searchable=False,
                             className="dropdown",
