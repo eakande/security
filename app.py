@@ -31,7 +31,7 @@ app.layout = html.Div(
                 html.P(
                     children="State-by-state insecurity tracker for Nigeria"
                     ""
-                    " from 2011 till date",
+                    " from 2012 till date",
                     className="header-description",
                 ),
             ],
