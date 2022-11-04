@@ -14815,3 +14815,143 @@ Date,state,Death,type
 9/6/2022,Kogi,5,Robber
 9/7/2022,Bayelsa,2,Robber
 9/18/2022,Plateau,1,Robber
+10/3/2022,Borno,3,Boko Haram
+10/3/2022,Borno,20,Boko Haram
+10/6/2022,Borno,8,Boko Haram
+10/11/2022,Borno,19,Boko Haram
+10/23/2022,Borno,6,Boko Haram
+10/29/2022,Niger,8,Boko Haram
+10/8/2022,Kaduna,31,State Actor
+10/10/2022,Ebonyi,0,State Actor
+10/11/2022,Borno,19,State Actor
+10/11/2022,Plateau,1,State Actor
+10/12/2022,Katsina,2,State Actor
+10/12/2022,Kaduna,2,State Actor
+10/15/2022,Abia,1,State Actor
+10/15/2022,Rivers,0,State Actor
+10/15/2022,Enugu,0,State Actor
+10/16/2022,Borno,6,State Actor
+10/14/2022,Benue,3,State Actor
+10/19/2022,Kaduna,2,State Actor
+10/20/2022,Ebonyi,0,State Actor
+10/20/2022,Zamfara,2,State Actor
+10/14/2022,Zamfara,30,State Actor
+10/11/2022,Katsina,14,State Actor
+10/23/2022,Ogun,2,State Actor
+10/21/2022,Zamfara,30,State Actor
+10/21/2022,Kwara,1,State Actor
+10/27/2022,Imo,1,State Actor
+10/28/2022,Katsina,10,State Actor
+10/29/2022,Niger,8,State Actor
+10/30/2022,Kaduna,7,State Actor
+10/5/2022,Jigawa,1,Sectarian Actor
+10/8/2022,Nassarawa,11,Sectarian Actor
+10/10/2022,Plateau,1,Sectarian Actor
+10/10/2022,Delta,3,Sectarian Actor
+10/12/2022,Benue,5,Sectarian Actor
+10/13/2022,Ebonyi,0,Sectarian Actor
+10/18/2022,Niger,2,Sectarian Actor
+10/19/2022,Benue,40,Sectarian Actor
+10/21/2022,Nassarawa,2,Sectarian Actor
+10/23/2022,Benue,2,Sectarian Actor
+10/28/2022,Bauchi,3,Sectarian Actor
+10/29/2022,Benue,4,Sectarian Actor
+10/30/2022,Plateau,2,Sectarian Actor
+10/2/2022,Taraba,12,Other Armed Actor
+10/3/2022,Delta,3,Other Armed Actor
+10/4/2022,Oyo,0,Other Armed Actor
+10/3/2022,Cross River,6,Other Armed Actor
+10/5/2022,Zamfara,26,Other Armed Actor
+10/5/2022,Delta,0,Other Armed Actor
+10/6/2022,Federal Capital Territory,0,Other Armed Actor
+10/6/2022,Edo,3,Other Armed Actor
+10/7/2022,Akwa Ibom,3,Other Armed Actor
+10/7/2022,Enugu,0,Other Armed Actor
+10/8/2022,Enugu,1,Other Armed Actor
+10/8/2022,Imo,2,Other Armed Actor
+10/8/2022,Plateau,7,Other Armed Actor
+10/9/2022,Enugu,2,Other Armed Actor
+10/9/2022,Ebonyi,1,Other Armed Actor
+10/9/2022,Anambra,3,Other Armed Actor
+10/10/2022,Ebonyi,0,Other Armed Actor
+10/10/2022,Enugu,4,Other Armed Actor
+10/11/2022,Rivers,1,Other Armed Actor
+10/12/2022,Kaduna,2,Other Armed Actor
+10/12/2022,Sokoto,1,Other Armed Actor
+10/14/2022,Zamfara,0,Other Armed Actor
+10/15/2022,Osun,1,Other Armed Actor
+10/15/2022,Rivers,0,Other Armed Actor
+10/15/2022,Plateau,1,Other Armed Actor
+10/15/2022,Zamfara,1,Other Armed Actor
+10/15/2022,Enugu,0,Other Armed Actor
+10/16/2022,Kogi,2,Other Armed Actor
+10/16/2022,Katsina,3,Other Armed Actor
+10/17/2022,Plateau,3,Other Armed Actor
+10/17/2022,Zamfara,1,Other Armed Actor
+10/18/2022,Niger,2,Other Armed Actor
+10/19/2022,Lagos,1,Other Armed Actor
+10/19/2022,Rivers,2,Other Armed Actor
+10/19/2022,Kaduna,2,Other Armed Actor
+10/20/2022,Anambra,0,Other Armed Actor
+10/20/2022,Zamfara,2,Other Armed Actor
+10/20/2022,Zamfara,0,Other Armed Actor
+10/21/2022,Edo,7,Other Armed Actor
+10/21/2022,Anambra,0,Other Armed Actor
+10/22/2022,Katsina,2,Other Armed Actor
+10/23/2022,Lagos,0,Other Armed Actor
+10/21/2022,Kwara,1,Other Armed Actor
+10/24/2022,Katsina,5,Other Armed Actor
+10/24/2022,Zamfara,0,Other Armed Actor
+10/24/2022,Ondo,1,Other Armed Actor
+10/25/2022,Sokoto,2,Other Armed Actor
+10/26/2022,Delta,1,Other Armed Actor
+10/27/2022,Imo,1,Other Armed Actor
+10/27/2022,Zamfara,0,Other Armed Actor
+10/13/2022,Cross River,5,Other Armed Actor
+10/28/2022,Enugu,1,Other Armed Actor
+10/28/2022,Kano,0,Other Armed Actor
+10/29/2022,Cross River,1,Other Armed Actor
+10/29/2022,Katsina,0,Other Armed Actor
+10/29/2022,Plateau,2,Other Armed Actor
+10/30/2022,Kaduna,7,Other Armed Actor
+10/30/2022,Kogi,6,Other Armed Actor
+10/30/2022,Ebonyi,1,Other Armed Actor
+10/30/2022,Zamfara,0,Other Armed Actor
+10/30/2022,Katsina,0,Other Armed Actor
+10/31/2022,Kwara,1,Other Armed Actor
+10/31/2022,Zamfara,0,Other Armed Actor
+10/1/2022,Kwara,0,Kidnapper
+10/4/2022,Plateau,0,Kidnapper
+10/5/2022,Enugu,0,Kidnapper
+10/6/2022,Plateau,0,Kidnapper
+10/7/2022,Kwara,1,Kidnapper
+10/8/2022,Oyo,0,Kidnapper
+10/6/2022,Federal Capital Territory,1,Kidnapper
+10/11/2022,Kwara,0,Kidnapper
+10/11/2022,Plateau,1,Kidnapper
+10/11/2022,Rivers,0,Kidnapper
+10/11/2022,Imo,0,Kidnapper
+10/12/2022,Katsina,2,Kidnapper
+10/12/2022,Federal Capital Territory,1,Kidnapper
+10/15/2022,Plateau,0,Kidnapper
+10/15/2022,Ebonyi,0,Kidnapper
+10/15/2022,Kwara,0,Kidnapper
+10/14/2022,Anambra,0,Kidnapper
+10/12/2022,Anambra,0,Kidnapper
+10/19/2022,Ebonyi,0,Kidnapper
+10/21/2022,Benue,0,Kidnapper
+10/23/2022,Enugu,0,Kidnapper
+10/27/2022,Enugu,0,Kidnapper
+10/28/2022,Katsina,10,Kidnapper
+10/28/2022,Oyo,1,Kidnapper
+10/30/2022,Ekiti,0,Kidnapper
+10/31/2022,Akwa Ibom,0,Kidnapper
+10/1/2022,Kogi,0,Robber
+10/14/2022,Benue,3,Robber
+10/31/2022,Kwara,0,Robber
+10/1/2022,Lagos,2,Other
+10/1/2022,Kaduna,2,Other
+9/30/2022,Benue,2,Other
+10/4/2022,Jigawa,0,Other
+10/15/2022,Plateau,1,Other
+10/29/2022,Plateau,2,Other
