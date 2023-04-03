@@ -1472,7 +1472,7 @@ Date,state,Death,type
 5/17/2018,Borno,5,Boko Haram
 5/18/2018,Borno,2,Boko Haram
 5/20/2018,Yobe,0,Boko Haram
-5/20/2018,Nasarawa,40,Boko Haram
+5/20/2018,Nassarawa,40,Boko Haram
 5/27/2018,Borno,5,Boko Haram
 5/28/2018,Borno,1,Boko Haram
 5/31/2018,Borno,3,Boko Haram
@@ -1943,7 +1943,7 @@ Date,state,Death,type
 1/11/2021,Borno,7,Boko Haram
 1/14/2021,Borno,5,Boko Haram
 1/15/2021,Borno,40,Boko Haram
-1/18/2021,Nasarawa,14,Boko Haram
+1/18/2021,Nassarawa,14,Boko Haram
 1/20/2021,Borno,5,Boko Haram
 1/25/2021,Yobe,5,Boko Haram
 1/25/2021,Borno,3,Boko Haram
@@ -2315,7 +2315,7 @@ Date,state,Death,type
 11/15/2012,Ekiti,0,State Actor
 11/16/2012,Borno,7,State Actor
 11/16/2012,Delta,4,State Actor
-11/17/2012,Nasarawa,4,State Actor
+11/17/2012,Nassarawa,4,State Actor
 11/19/2012,Ogun,,State Actor
 11/20/2012,Benue,0,State Actor
 11/20/2012,Kogi,2,State Actor
@@ -2359,8 +2359,8 @@ Date,state,Death,type
 1/9/2013,Delta,1,State Actor
 1/10/2013,Ebonyi,0,State Actor
 1/13/2013,Delta,3,State Actor
-1/13/2013,Nasarawa,5,State Actor
-1/13/2013,Nasarawa,5,State Actor
+1/13/2013,Nassarawa,5,State Actor
+1/13/2013,Nassarawa,5,State Actor
 1/15/2013,Borno,45,State Actor
 1/17/2013,Kano,4,State Actor
 1/19/2013,Anambra,50,State Actor
@@ -2379,7 +2379,7 @@ Date,state,Death,type
 1/29/2013,Borno,45,State Actor
 1/31/2013,Borno,18,State Actor
 1/31/2013,Benue,3,State Actor
-1/31/2013,Nasarawa,0,State Actor
+1/31/2013,Nassarawa,0,State Actor
 1/31/2013,Adamawa,4,State Actor
 2/1/2013,Borno,18,State Actor
 2/2/2013,Delta,1,State Actor
@@ -2394,7 +2394,7 @@ Date,state,Death,type
 2/23/2013,Kano,2,State Actor
 2/24/2013,Kano,2,State Actor
 2/25/2013,Borno,4,State Actor
-2/25/2013,Nasarawa,4,State Actor
+2/25/2013,Nassarawa,4,State Actor
 2/26/2013,Borno,45,State Actor
 2/28/2013,Benue,3,State Actor
 3/1/2013,Ekiti,1,State Actor
@@ -2505,7 +2505,7 @@ Date,state,Death,type
 9/14/2013,Borno,1,State Actor
 9/15/2013,Borno,166,State Actor
 9/16/2013,Federal Capital Territory,5,State Actor
-9/16/2013,Nasarawa,5,State Actor
+9/16/2013,Nassarawa,5,State Actor
 9/18/2013,Yobe,11,State Actor
 9/20/2013,Federal Capital Territory,10,State Actor
 9/27/2013,Delta,1,State Actor
@@ -2527,7 +2527,7 @@ Date,state,Death,type
 11/2/2013,Delta,2,State Actor
 11/4/2013,Borno,7,State Actor
 11/5/2013,Delta,1,State Actor
-11/5/2013,Nasarawa,4,State Actor
+11/5/2013,Nassarawa,4,State Actor
 11/6/2013,Jigawa,2,State Actor
 11/6/2013,Ogun,2,State Actor
 11/9/2013,Kano,7,State Actor
@@ -2593,7 +2593,7 @@ Date,state,Death,type
 3/29/2014,Borno,2002,State Actor
 3/30/2014,Federal Capital Territory,21,State Actor
 4/1/2014,Borno,21,State Actor
-4/3/2014,Nasarawa,50,State Actor
+4/3/2014,Nassarawa,50,State Actor
 4/3/2014,Benue,0,State Actor
 4/3/2014,Plateau,0,State Actor
 4/3/2014,Kaduna,0,State Actor
@@ -2699,7 +2699,7 @@ Date,state,Death,type
 10/19/2014,Borno,25,State Actor
 10/23/2014,Bauchi,1,State Actor
 10/25/2014,Borno,21,State Actor
-11/3/2014,Nasarawa,50,State Actor
+11/3/2014,Nassarawa,50,State Actor
 11/5/2014,Borno,45,State Actor
 11/5/2014,Yobe,18,State Actor
 11/12/2014,Plateau,0,State Actor
@@ -2709,7 +2709,7 @@ Date,state,Death,type
 11/16/2014,Borno,0,State Actor
 11/16/2014,Edo,2,State Actor
 11/17/2014,Plateau,0,State Actor
-11/18/2014,Nasarawa,12,State Actor
+11/18/2014,Nassarawa,12,State Actor
 11/18/2014,Adamawa,410,State Actor
 11/20/2014,Sokoto,0,State Actor
 11/20/2014,Federal Capital Territory,0,State Actor
@@ -2874,7 +2874,7 @@ Date,state,Death,type
 9/5/2015,Delta,3,State Actor
 9/7/2015,Katsina,10,State Actor
 9/15/2015,Ogun,10,State Actor
-9/19/2015,Nasarawa,1,State Actor
+9/19/2015,Nassarawa,1,State Actor
 9/22/2015,Edo,1,State Actor
 9/25/2015,Yobe,3,State Actor
 9/26/2015,Kogi,4,State Actor
@@ -3089,7 +3089,7 @@ Date,state,Death,type
 7/25/2016,Federal Capital Territory,0,State Actor
 7/26/2016,Lagos,6,State Actor
 7/28/2016,Ogun,19,State Actor
-7/29/2016,Nasarawa,2,State Actor
+7/29/2016,Nassarawa,2,State Actor
 7/29/2016,Borno,2,State Actor
 8/1/2016,Borno,5,State Actor
 8/1/2016,Ogun,114,State Actor
@@ -3101,7 +3101,7 @@ Date,state,Death,type
 8/12/2016,Katsina,1,State Actor
 8/14/2016,Rivers,0,State Actor
 8/14/2016,Borno,16,State Actor
-8/14/2016,Nasarawa,1,State Actor
+8/14/2016,Nassarawa,1,State Actor
 8/16/2016,Plateau,2,State Actor
 8/16/2016,Borno,3,State Actor
 8/15/2016,Borno,5,State Actor
@@ -3314,7 +3314,7 @@ Date,state,Death,type
 6/9/2017,Kaduna,3,State Actor
 6/9/2017,Kano,2,State Actor
 6/11/2017,Borno,15,State Actor
-6/11/2017,Nasarawa,1,State Actor
+6/11/2017,Nassarawa,1,State Actor
 6/11/2017,Enugu,1,State Actor
 6/16/2017,Imo,1,State Actor
 6/15/2017,Ondo,0,State Actor
@@ -3362,7 +3362,7 @@ Date,state,Death,type
 8/7/2017,Borno,6,State Actor
 8/8/2017,Federal Capital Territory,0,State Actor
 8/10/2017,Delta,1,State Actor
-8/14/2017,Nasarawa,1,State Actor
+8/14/2017,Nassarawa,1,State Actor
 8/15/2017,Borno,10,State Actor
 8/16/2017,Anambra,1,State Actor
 8/22/2017,Delta,6,State Actor
@@ -3515,7 +3515,7 @@ Date,state,Death,type
 1/30/2018,Cross River,0,State Actor
 1/30/2018,Borno,0,State Actor
 1/31/2018,Adamawa,1,State Actor
-2/2/2018,Nasarawa,1,State Actor
+2/2/2018,Nassarawa,1,State Actor
 2/2/2018,Ogun,1,State Actor
 2/4/2018,Lagos,1,State Actor
 2/5/2018,Benue,6,State Actor
@@ -3591,12 +3591,12 @@ Date,state,Death,type
 4/30/2018,Bayelsa,0,State Actor
 5/1/2018,Cross River,1,State Actor
 5/2/2018,Borno,10,State Actor
-5/2/2018,Nasarawa,1,State Actor
+5/2/2018,Nassarawa,1,State Actor
 5/2/2018,Delta,4,State Actor
 5/3/2018,Borno,1,State Actor
 5/6/2018,Taraba,0,State Actor
 5/4/2018,Benue,0,State Actor
-5/4/2018,Nasarawa,1,State Actor
+5/4/2018,Nassarawa,1,State Actor
 5/9/2018,Taraba,10,State Actor
 5/9/2018,Adamawa,8,State Actor
 5/10/2018,Lagos,5,State Actor
@@ -3654,7 +3654,7 @@ Date,state,Death,type
 6/23/2018,Zamfara,20,State Actor
 6/27/2018,Borno,2,State Actor
 6/27/2018,Borno,4,State Actor
-6/27/2018,Nasarawa,6,State Actor
+6/27/2018,Nassarawa,6,State Actor
 6/27/2018,Lagos,3,State Actor
 6/28/2018,Oyo,5,State Actor
 6/27/2018,Borno,4,State Actor
@@ -3671,7 +3671,7 @@ Date,state,Death,type
 7/10/2018,Cross River,3,State Actor
 7/14/2018,Borno,5,State Actor
 7/14/2018,Zamfara,1,State Actor
-7/15/2018,Nasarawa,1,State Actor
+7/15/2018,Nassarawa,1,State Actor
 7/15/2018,Borno,32,State Actor
 7/16/2018,Kaduna,4,State Actor
 7/17/2018,Kaduna,1,State Actor
@@ -3754,13 +3754,13 @@ Date,state,Death,type
 10/13/2018,Kaduna,1,State Actor
 10/15/2018,Borno,5,State Actor
 10/15/2018,Borno,2,State Actor
-10/18/2018,Nasarawa,2,State Actor
+10/18/2018,Nassarawa,2,State Actor
 10/18/2018,Benue,5,State Actor
 10/18/2018,Plateau,1,State Actor
 10/21/2018,Benue,13,State Actor
 10/22/2018,Plateau,1,State Actor
 10/23/2018,Borno,5,State Actor
-10/24/2018,Nasarawa,1,State Actor
+10/24/2018,Nassarawa,1,State Actor
 10/25/2018,Borno,2,State Actor
 10/27/2018,Federal Capital Territory,5,State Actor
 10/27/2018,Borno,41,State Actor
@@ -3831,9 +3831,9 @@ Date,state,Death,type
 1/4/2019,Katsina,1,State Actor
 1/7/2019,Borno,100,State Actor
 1/7/2019,Borno,8,State Actor
-1/7/2019,Nasarawa,0,State Actor
+1/7/2019,Nassarawa,0,State Actor
 1/8/2019,Benue,16,State Actor
-1/8/2019,Nasarawa,1,State Actor
+1/8/2019,Nassarawa,1,State Actor
 1/2/2019,Borno,1,State Actor
 1/10/2019,Borno,82,State Actor
 1/11/2019,Rivers,2,State Actor
@@ -4382,7 +4382,7 @@ Date,state,Death,type
 4/15/2020,Anambra,2,State Actor
 4/16/2020,Borno,10,State Actor
 4/16/2020,Borno,17,State Actor
-4/16/2020,Nasarawa,4,State Actor
+4/16/2020,Nassarawa,4,State Actor
 4/17/2020,Abia,1,State Actor
 4/17/2020,Abia,1,State Actor
 4/18/2020,Yobe,105,State Actor
@@ -4560,7 +4560,7 @@ Date,state,Death,type
 8/25/2020,Ogun,1,State Actor
 8/26/2020,Oyo,1,State Actor
 8/26/2020,Lagos,2,State Actor
-8/26/2020,Nasarawa,0,State Actor
+8/26/2020,Nassarawa,0,State Actor
 8/27/2020,Borno,2,State Actor
 8/30/2020,Kaduna,2,State Actor
 8/30/2020,Akwa Ibom,0,State Actor
@@ -4608,7 +4608,7 @@ Date,state,Death,type
 9/24/2020,Borno,10,State Actor
 9/25/2020,Borno,40,State Actor
 9/25/2020,Sokoto,1,State Actor
-9/25/2020,Nasarawa,2,State Actor
+9/25/2020,Nassarawa,2,State Actor
 9/25/2020,Taraba,2,State Actor
 9/26/2020,Borno,10,State Actor
 9/28/2020,Katsina,1,State Actor
@@ -4644,7 +4644,7 @@ Date,state,Death,type
 10/15/2020,Borno,10,State Actor
 10/17/2020,Anambra,0,State Actor
 10/18/2020,Borno,10,State Actor
-10/18/2020,Nasarawa,2,State Actor
+10/18/2020,Nassarawa,2,State Actor
 10/15/2020,Katsina,4,State Actor
 10/19/2020,Edo,6,State Actor
 10/19/2020,Edo,4,State Actor
@@ -4780,7 +4780,7 @@ Date,state,Death,type
 12/7/2020,Borno,10,State Actor
 12/8/2020,Borno,7,State Actor
 12/8/2020,Niger,1,State Actor
-12/9/2020,Nasarawa,2,State Actor
+12/9/2020,Nassarawa,2,State Actor
 12/10/2020,Rivers,2,State Actor
 12/11/2020,Borno,10,State Actor
 12/11/2020,Katsina,3,State Actor
@@ -4837,7 +4837,7 @@ Date,state,Death,type
 1/5/2021,Gombe,1,State Actor
 1/6/2021,Oyo,3,State Actor
 1/7/2021,Edo,2,State Actor
-1/7/2021,Nasarawa,1,State Actor
+1/7/2021,Nassarawa,1,State Actor
 1/7/2021,Imo,1,State Actor
 1/6/2021,Borno,10,State Actor
 1/8/2021,Kwara,5,State Actor
@@ -4861,7 +4861,7 @@ Date,state,Death,type
 1/17/2021,Zamfara,30,State Actor
 1/18/2021,Plateau,2,State Actor
 1/18/2021,Kaduna,2,State Actor
-1/18/2021,Nasarawa,14,State Actor
+1/18/2021,Nassarawa,14,State Actor
 1/19/2021,Lagos,0,State Actor
 1/20/2021,Borno,5,State Actor
 1/22/2021,Ondo,4,State Actor
@@ -5002,7 +5002,7 @@ Date,state,Death,type
 4/13/2021,Akwa Ibom,4,State Actor
 4/14/2021,Edo,0,State Actor
 4/15/2021,Borno,13,State Actor
-4/16/2021,Nasarawa,1,State Actor
+4/16/2021,Nassarawa,1,State Actor
 4/17/2021,Benue,12,State Actor
 4/17/2021,Niger,6,State Actor
 4/18/2021,Borno,20,State Actor
@@ -5080,7 +5080,7 @@ Date,state,Death,type
 5/28/2021,Kwara,1,State Actor
 5/28/2021,Delta,5,State Actor
 5/28/2021,Borno,10,State Actor
-5/28/2021,Nasarawa,1,State Actor
+5/28/2021,Nassarawa,1,State Actor
 5/29/2021,Imo,4,State Actor
 5/29/2021,Abia,10,State Actor
 5/30/2021,Imo,10,State Actor
@@ -5352,7 +5352,7 @@ Date,state,Death,type
 11/17/2021,Imo,1,State Actor
 11/18/2021,Katsina,4,State Actor
 11/19/2021,Borno,11,State Actor
-11/20/2021,Nasarawa,0,State Actor
+11/20/2021,Nassarawa,0,State Actor
 11/20/2021,Sokoto,20,State Actor
 11/22/2021,Imo,2,State Actor
 11/21/2021,Taraba,1,State Actor
@@ -5396,7 +5396,7 @@ Date,state,Death,type
 12/23/2021,Osun,0,State Actor
 12/25/2021,Enugu,0,State Actor
 12/26/2021,Yobe,17,State Actor
-12/26/2021,Nasarawa,1,State Actor
+12/26/2021,Nassarawa,1,State Actor
 12/29/2021,Borno,28,State Actor
 12/30/2021,Delta,5,State Actor
 12/30/2021,Imo,6,State Actor
@@ -5572,7 +5572,7 @@ Date,state,Death,type
 4/20/2022,Imo,1,State Actor
 4/24/2022,Lagos,2,State Actor
 4/22/2022,Edo,1,State Actor
-4/21/2022,Nasarawa,0,State Actor
+4/21/2022,Nassarawa,0,State Actor
 4/25/2022,Bayelsa,1,State Actor
 4/25/2022,Imo,2,State Actor
 4/25/2022,Imo,1,State Actor
@@ -5730,7 +5730,7 @@ Date,state,Death,type
 2/7/2012,Delta,2,Sectarian Actor
 2/8/2012,Lagos,9,Sectarian Actor
 2/10/2012,Delta,0,Sectarian Actor
-2/15/2012,Nasarawa,4,Sectarian Actor
+2/15/2012,Nassarawa,4,Sectarian Actor
 2/16/2012,Delta,0,Sectarian Actor
 2/18/2012,Akwa Ibom,3,Sectarian Actor
 2/22/2012,Taraba,3,Sectarian Actor
@@ -5740,10 +5740,10 @@ Date,state,Death,type
 3/5/2012,Benue,45,Sectarian Actor
 3/5/2012,Lagos,1,Sectarian Actor
 3/6/2012,Plateau,2,Sectarian Actor
-3/8/2012,Nasarawa,20,Sectarian Actor
+3/8/2012,Nassarawa,20,Sectarian Actor
 3/11/2012,Plateau,19,Sectarian Actor
 3/12/2012,Plateau,3,Sectarian Actor
-3/13/2012,Nasarawa,8,Sectarian Actor
+3/13/2012,Nassarawa,8,Sectarian Actor
 3/18/2012,Plateau,2,Sectarian Actor
 3/19/2012,Taraba,16,Sectarian Actor
 3/19/2012,Bayelsa,0,Sectarian Actor
@@ -5763,12 +5763,12 @@ Date,state,Death,type
 4/25/2012,Plateau,5,Sectarian Actor
 4/30/2012,Plateau,10,Sectarian Actor
 5/2/2012,Plateau,0,Sectarian Actor
-5/8/2012,Nasarawa,2,Sectarian Actor
+5/8/2012,Nassarawa,2,Sectarian Actor
 5/9/2012,Plateau,7,Sectarian Actor
 5/13/2012,Adamawa,15,Sectarian Actor
 5/21/2012,Benue,15,Sectarian Actor
 5/29/2012,Cross River,40,Sectarian Actor
-6/1/2012,Nasarawa,30,Sectarian Actor
+6/1/2012,Nassarawa,30,Sectarian Actor
 6/6/2012,Plateau,4,Sectarian Actor
 6/10/2012,Taraba,13,Sectarian Actor
 6/10/2012,Zamfara,27,Sectarian Actor
@@ -5803,11 +5803,11 @@ Date,state,Death,type
 10/13/2012,Plateau,2,Sectarian Actor
 10/14/2012,Benue,30,Sectarian Actor
 10/14/2012,Kaduna,24,Sectarian Actor
-10/18/2012,Nasarawa,14,Sectarian Actor
+10/18/2012,Nassarawa,14,Sectarian Actor
 10/18/2012,Bauchi,4,Sectarian Actor
 10/20/2012,Ondo,0,Sectarian Actor
 10/23/2012,Edo,0,Sectarian Actor
-10/27/2012,Nasarawa,0,Sectarian Actor
+10/27/2012,Nassarawa,0,Sectarian Actor
 10/28/2012,Plateau,4,Sectarian Actor
 11/1/2012,Delta,5,Sectarian Actor
 11/1/2012,Plateau,8,Sectarian Actor
@@ -5827,7 +5827,7 @@ Date,state,Death,type
 11/20/2012,Plateau,30,Sectarian Actor
 11/21/2012,Plateau,1,Sectarian Actor
 11/21/2012,Plateau,2,Sectarian Actor
-11/21/2012,Nasarawa,11,Sectarian Actor
+11/21/2012,Nassarawa,11,Sectarian Actor
 11/22/2012,Kano,5,Sectarian Actor
 11/25/2012,Delta,5,Sectarian Actor
 11/26/2012,Plateau,10,Sectarian Actor
@@ -5850,16 +5850,16 @@ Date,state,Death,type
 1/6/2013,Lagos,4,Sectarian Actor
 1/6/2013,Delta,2,Sectarian Actor
 1/7/2013,Lagos,1,Sectarian Actor
-1/9/2013,Nasarawa,3,Sectarian Actor
-1/12/2013,Nasarawa,0,Sectarian Actor
-1/12/2013,Nasarawa,11,Sectarian Actor
+1/9/2013,Nassarawa,3,Sectarian Actor
+1/12/2013,Nassarawa,0,Sectarian Actor
+1/12/2013,Nassarawa,11,Sectarian Actor
 1/14/2013,Cross River,11,Sectarian Actor
 1/14/2013,Cross River,7,Sectarian Actor
 1/22/2013,Plateau,22,Sectarian Actor
 1/27/2013,Plateau,2,Sectarian Actor
 1/28/2013,Kwara,10,Sectarian Actor
 1/30/2013,Benue,3,Sectarian Actor
-2/2/2013,Nasarawa,10,Sectarian Actor
+2/2/2013,Nassarawa,10,Sectarian Actor
 2/3/2013,Plateau,2,Sectarian Actor
 2/4/2013,Adamawa,11,Sectarian Actor
 2/11/2013,Plateau,5,Sectarian Actor
@@ -5924,7 +5924,7 @@ Date,state,Death,type
 5/3/2013,Taraba,39,Sectarian Actor
 5/3/2013,Kogi,4,Sectarian Actor
 5/5/2013,Benue,30,Sectarian Actor
-5/7/2013,Nasarawa,104,Sectarian Actor
+5/7/2013,Nassarawa,104,Sectarian Actor
 5/7/2013,Akwa Ibom,1,Sectarian Actor
 5/11/2013,Bayelsa,1,Sectarian Actor
 5/12/2013,Kaduna,12,Sectarian Actor
@@ -5949,14 +5949,14 @@ Date,state,Death,type
 7/27/2013,Plateau,46,Sectarian Actor
 7/28/2013,Benue,4,Sectarian Actor
 7/30/2013,Taraba,9,Sectarian Actor
-7/30/2013,Nasarawa,5,Sectarian Actor
-7/31/2013,Nasarawa,16,Sectarian Actor
+7/30/2013,Nassarawa,5,Sectarian Actor
+7/31/2013,Nassarawa,16,Sectarian Actor
 8/7/2013,Lagos,0,Sectarian Actor
 8/20/2013,Kaduna,3,Sectarian Actor
 8/23/2013,Oyo,0,Sectarian Actor
 8/25/2013,Benue,18,Sectarian Actor
 8/26/2013,Ekiti,0,Sectarian Actor
-8/27/2013,Nasarawa,0,Sectarian Actor
+8/27/2013,Nassarawa,0,Sectarian Actor
 8/29/2013,Plateau,6,Sectarian Actor
 8/31/2013,Federal Capital Territory,0,Sectarian Actor
 9/1/2013,Plateau,6,Sectarian Actor
@@ -5965,9 +5965,9 @@ Date,state,Death,type
 9/3/2013,Plateau,3,Sectarian Actor
 9/3/2013,Plateau,3,Sectarian Actor
 9/9/2013,Plateau,4,Sectarian Actor
-9/14/2013,Nasarawa,50,Sectarian Actor
+9/14/2013,Nassarawa,50,Sectarian Actor
 9/15/2013,Rivers,3,Sectarian Actor
-9/16/2013,Nasarawa,5,Sectarian Actor
+9/16/2013,Nassarawa,5,Sectarian Actor
 9/17/2013,Katsina,5,Sectarian Actor
 9/17/2013,Abia,0,Sectarian Actor
 9/19/2013,Plateau,10,Sectarian Actor
@@ -6028,7 +6028,7 @@ Date,state,Death,type
 2/9/2014,Zamfara,16,Sectarian Actor
 2/11/2014,Plateau,3,Sectarian Actor
 2/13/2014,Federal Capital Territory,0,Sectarian Actor
-2/16/2014,Nasarawa,2,Sectarian Actor
+2/16/2014,Nassarawa,2,Sectarian Actor
 2/20/2014,Plateau,13,Sectarian Actor
 2/22/2014,Plateau,29,Sectarian Actor
 2/24/2014,Kwara,0,Sectarian Actor
@@ -6062,7 +6062,7 @@ Date,state,Death,type
 4/15/2014,Taraba,77,Sectarian Actor
 4/21/2014,Taraba,35,Sectarian Actor
 4/25/2014,Benue,5,Sectarian Actor
-4/26/2014,Nasarawa,34,Sectarian Actor
+4/26/2014,Nassarawa,34,Sectarian Actor
 4/30/2014,Anambra,2,Sectarian Actor
 5/4/2014,Plateau,3,Sectarian Actor
 5/7/2014,Benue,0,Sectarian Actor
@@ -6091,40 +6091,40 @@ Date,state,Death,type
 8/7/2014,Kaduna,4,Sectarian Actor
 8/10/2014,Plateau,2,Sectarian Actor
 8/11/2014,Plateau,12,Sectarian Actor
-8/24/2014,Nasarawa,30,Sectarian Actor
-8/27/2014,Nasarawa,60,Sectarian Actor
+8/24/2014,Nassarawa,30,Sectarian Actor
+8/27/2014,Nassarawa,60,Sectarian Actor
 9/3/2014,Taraba,28,Sectarian Actor
 9/14/2014,Taraba,20,Sectarian Actor
 9/14/2014,Plateau,6,Sectarian Actor
 9/16/2014,Kaduna,50,Sectarian Actor
 9/21/2014,Plateau,2,Sectarian Actor
-9/24/2014,Nasarawa,10,Sectarian Actor
+9/24/2014,Nassarawa,10,Sectarian Actor
 9/26/2014,Benue,4,Sectarian Actor
 9/26/2014,Plateau,13,Sectarian Actor
-9/27/2014,Nasarawa,20,Sectarian Actor
+9/27/2014,Nassarawa,20,Sectarian Actor
 10/10/2014,Plateau,27,Sectarian Actor
-10/16/2014,Nasarawa,10,Sectarian Actor
+10/16/2014,Nassarawa,10,Sectarian Actor
 10/19/2014,Taraba,27,Sectarian Actor
 10/19/2014,Taraba,7,Sectarian Actor
-10/21/2014,Nasarawa,20,Sectarian Actor
+10/21/2014,Nassarawa,20,Sectarian Actor
 10/28/2014,Plateau,5,Sectarian Actor
 11/2/2014,Zamfara,42,Sectarian Actor
-11/2/2014,Nasarawa,20,Sectarian Actor
+11/2/2014,Nassarawa,20,Sectarian Actor
 11/2/2014,Delta,1,Sectarian Actor
-11/3/2014,Nasarawa,50,Sectarian Actor
+11/3/2014,Nassarawa,50,Sectarian Actor
 11/7/2014,Jigawa,0,Sectarian Actor
-11/8/2014,Nasarawa,32,Sectarian Actor
+11/8/2014,Nassarawa,32,Sectarian Actor
 11/15/2014,Federal Capital Territory,0,Sectarian Actor
-11/16/2014,Nasarawa,20,Sectarian Actor
-11/16/2014,Nasarawa,5,Sectarian Actor
+11/16/2014,Nassarawa,20,Sectarian Actor
+11/16/2014,Nassarawa,5,Sectarian Actor
 11/17/2014,Rivers,2,Sectarian Actor
-11/18/2014,Nasarawa,12,Sectarian Actor
-11/19/2014,Nasarawa,4,Sectarian Actor
+11/18/2014,Nassarawa,12,Sectarian Actor
+11/19/2014,Nassarawa,4,Sectarian Actor
 11/22/2014,Edo,1,Sectarian Actor
-11/22/2014,Nasarawa,40,Sectarian Actor
+11/22/2014,Nassarawa,40,Sectarian Actor
 11/28/2014,Kogi,5,Sectarian Actor
-11/29/2014,Nasarawa,3,Sectarian Actor
-12/2/2014,Nasarawa,9,Sectarian Actor
+11/29/2014,Nassarawa,3,Sectarian Actor
+12/2/2014,Nassarawa,9,Sectarian Actor
 12/14/2014,Oyo,2,Sectarian Actor
 12/14/2014,Benue,5,Sectarian Actor
 12/17/2014,Kaduna,5,Sectarian Actor
@@ -6163,7 +6163,7 @@ Date,state,Death,type
 4/18/2015,Benue,60,Sectarian Actor
 4/20/2015,Taraba,15,Sectarian Actor
 4/25/2015,Benue,19,Sectarian Actor
-4/26/2015,Nasarawa,19,Sectarian Actor
+4/26/2015,Nassarawa,19,Sectarian Actor
 4/30/2015,Taraba,6,Sectarian Actor
 5/4/2015,Plateau,30,Sectarian Actor
 5/3/2015,Taraba,21,Sectarian Actor
@@ -6188,8 +6188,8 @@ Date,state,Death,type
 7/11/2015,Taraba,4,Sectarian Actor
 7/11/2015,Niger,1,Sectarian Actor
 7/12/2015,Niger,11,Sectarian Actor
-7/19/2015,Nasarawa,2,Sectarian Actor
-7/18/2015,Nasarawa,10,Sectarian Actor
+7/19/2015,Nassarawa,2,Sectarian Actor
+7/18/2015,Nassarawa,10,Sectarian Actor
 7/22/2015,Plateau,8,Sectarian Actor
 7/23/2015,Ebonyi,1,Sectarian Actor
 7/26/2015,Ebonyi,1,Sectarian Actor
@@ -6211,7 +6211,7 @@ Date,state,Death,type
 12/13/2015,Plateau,15,Sectarian Actor
 12/20/2015,Kwara,4,Sectarian Actor
 12/20/2015,Taraba,6,Sectarian Actor
-1/3/2016,Nasarawa,12,Sectarian Actor
+1/3/2016,Nassarawa,12,Sectarian Actor
 1/24/2016,Adamawa,30,Sectarian Actor
 1/31/2016,Benue,10,Sectarian Actor
 2/6/2016,Zamfara,50,Sectarian Actor
@@ -6254,7 +6254,7 @@ Date,state,Death,type
 4/25/2016,Enugu,15,Sectarian Actor
 4/26/2016,Delta,2,Sectarian Actor
 4/30/2016,Cross River,2,Sectarian Actor
-5/1/2016,Nasarawa,20,Sectarian Actor
+5/1/2016,Nassarawa,20,Sectarian Actor
 5/5/2016,Abia,3,Sectarian Actor
 5/7/2016,Taraba,12,Sectarian Actor
 5/7/2016,Delta,3,Sectarian Actor
@@ -6272,7 +6272,7 @@ Date,state,Death,type
 6/22/2016,Benue,4,Sectarian Actor
 6/21/2016,Ebonyi,8,Sectarian Actor
 6/25/2016,Adamawa,8,Sectarian Actor
-6/30/2016,Nasarawa,1,Sectarian Actor
+6/30/2016,Nassarawa,1,Sectarian Actor
 7/5/2016,Cross River,7,Sectarian Actor
 7/7/2016,Benue,8,Sectarian Actor
 7/8/2016,Niger,11,Sectarian Actor
@@ -6307,7 +6307,7 @@ Date,state,Death,type
 11/13/2016,Kaduna,31,Sectarian Actor
 11/15/2016,Ebonyi,3,Sectarian Actor
 11/19/2016,Federal Capital Territory,0,Sectarian Actor
-11/19/2016,Nasarawa,2,Sectarian Actor
+11/19/2016,Nassarawa,2,Sectarian Actor
 11/20/2016,Delta,0,Sectarian Actor
 11/20/2016,Cross River,10,Sectarian Actor
 11/23/2016,Katsina,8,Sectarian Actor
@@ -6393,7 +6393,7 @@ Date,state,Death,type
 6/19/2017,Federal Capital Territory,1,Sectarian Actor
 6/15/2017,Ondo,0,Sectarian Actor
 6/18/2017,Taraba,3,Sectarian Actor
-6/18/2017,Nasarawa,2,Sectarian Actor
+6/18/2017,Nassarawa,2,Sectarian Actor
 6/20/2017,Delta,2,Sectarian Actor
 6/20/2017,Delta,1,Sectarian Actor
 6/21/2017,Cross River,8,Sectarian Actor
@@ -6426,7 +6426,7 @@ Date,state,Death,type
 11/2/2017,Benue,1,Sectarian Actor
 11/2/2017,Ebonyi,5,Sectarian Actor
 11/7/2017,Plateau,11,Sectarian Actor
-11/9/2017,Nasarawa,1,Sectarian Actor
+11/9/2017,Nassarawa,1,Sectarian Actor
 11/11/2017,Kwara,2,Sectarian Actor
 11/12/2017,Kaduna,4,Sectarian Actor
 11/20/2017,Adamawa,45,Sectarian Actor
@@ -6434,7 +6434,7 @@ Date,state,Death,type
 12/4/2017,Adamawa,2,Sectarian Actor
 12/4/2017,Plateau,11,Sectarian Actor
 12/5/2017,Cross River,0,Sectarian Actor
-12/9/2017,Nasarawa,,Sectarian Actor
+12/9/2017,Nassarawa,,Sectarian Actor
 12/8/2017,Kogi,10,Sectarian Actor
 12/20/2017,Kebbi,2,Sectarian Actor
 12/25/2017,Federal Capital Territory,1,Sectarian Actor
@@ -6444,8 +6444,8 @@ Date,state,Death,type
 12/26/2017,Cross River,6,Sectarian Actor
 12/28/2017,Taraba,2,Sectarian Actor
 1/1/2018,Benue,50,Sectarian Actor
-1/1/2018,Nasarawa,2,Sectarian Actor
-1/1/2018,Nasarawa,14,Sectarian Actor
+1/1/2018,Nassarawa,2,Sectarian Actor
+1/1/2018,Nassarawa,14,Sectarian Actor
 1/5/2018,Taraba,60,Sectarian Actor
 1/6/2018,Benue,16,Sectarian Actor
 1/8/2018,Benue,2,Sectarian Actor
@@ -6472,7 +6472,7 @@ Date,state,Death,type
 1/25/2018,Plateau,8,Sectarian Actor
 1/26/2018,Plateau,3,Sectarian Actor
 1/28/2018,Plateau,2,Sectarian Actor
-1/29/2018,Nasarawa,7,Sectarian Actor
+1/29/2018,Nassarawa,7,Sectarian Actor
 1/29/2018,Benue,1,Sectarian Actor
 1/31/2018,Kaduna,9,Sectarian Actor
 2/1/2018,Taraba,4,Sectarian Actor
@@ -6482,7 +6482,7 @@ Date,state,Death,type
 2/5/2018,Benue,6,Sectarian Actor
 2/5/2018,Benue,2,Sectarian Actor
 2/6/2018,Oyo,2,Sectarian Actor
-2/6/2018,Nasarawa,8,Sectarian Actor
+2/6/2018,Nassarawa,8,Sectarian Actor
 2/7/2018,Delta,0,Sectarian Actor
 2/8/2018,Benue,3,Sectarian Actor
 2/8/2018,Adamawa,6,Sectarian Actor
@@ -6496,7 +6496,7 @@ Date,state,Death,type
 2/13/2018,Delta,1,Sectarian Actor
 2/14/2018,Zamfara,41,Sectarian Actor
 2/21/2018,Kwara,2,Sectarian Actor
-2/23/2018,Nasarawa,0,Sectarian Actor
+2/23/2018,Nassarawa,0,Sectarian Actor
 2/26/2018,Kaduna,12,Sectarian Actor
 2/27/2018,Adamawa,30,Sectarian Actor
 2/27/2018,Ebonyi,0,Sectarian Actor
@@ -6543,8 +6543,8 @@ Date,state,Death,type
 4/7/2018,Benue,2,Sectarian Actor
 4/7/2018,Benue,11,Sectarian Actor
 4/8/2018,Plateau,7,Sectarian Actor
-4/8/2018,Nasarawa,5,Sectarian Actor
-4/8/2018,Nasarawa,4,Sectarian Actor
+4/8/2018,Nassarawa,5,Sectarian Actor
+4/8/2018,Nassarawa,4,Sectarian Actor
 4/9/2018,Benue,1,Sectarian Actor
 4/10/2018,Benue,8,Sectarian Actor
 4/10/2018,Benue,7,Sectarian Actor
@@ -6554,7 +6554,7 @@ Date,state,Death,type
 4/15/2018,Benue,4,Sectarian Actor
 4/13/2018,Kogi,5,Sectarian Actor
 4/15/2018,Delta,0,Sectarian Actor
-4/15/2018,Nasarawa,78,Sectarian Actor
+4/15/2018,Nassarawa,78,Sectarian Actor
 4/17/2018,Benue,1,Sectarian Actor
 4/18/2018,Plateau,4,Sectarian Actor
 4/18/2018,Delta,1,Sectarian Actor
@@ -6565,17 +6565,17 @@ Date,state,Death,type
 4/25/2018,Benue,39,Sectarian Actor
 4/24/2018,Benue,8,Sectarian Actor
 4/25/2018,Benue,11,Sectarian Actor
-4/25/2018,Nasarawa,7,Sectarian Actor
+4/25/2018,Nassarawa,7,Sectarian Actor
 4/26/2018,Benue,7,Sectarian Actor
 4/28/2018,Benue,8,Sectarian Actor
 5/1/2018,Benue,6,Sectarian Actor
 5/3/2018,Adamawa,15,Sectarian Actor
-5/4/2018,Nasarawa,3,Sectarian Actor
+5/4/2018,Nassarawa,3,Sectarian Actor
 5/4/2018,Benue,0,Sectarian Actor
 5/7/2018,Cross River,11,Sectarian Actor
 5/9/2018,Taraba,9,Sectarian Actor
 5/9/2018,Adamawa,8,Sectarian Actor
-5/14/2018,Nasarawa,31,Sectarian Actor
+5/14/2018,Nassarawa,31,Sectarian Actor
 5/17/2018,Benue,5,Sectarian Actor
 5/19/2018,Benue,36,Sectarian Actor
 5/20/2018,Benue,2,Sectarian Actor
@@ -6591,7 +6591,7 @@ Date,state,Death,type
 5/31/2018,Benue,2,Sectarian Actor
 6/2/2018,Kogi,5,Sectarian Actor
 6/3/2018,Benue,10,Sectarian Actor
-6/3/2018,Nasarawa,11,Sectarian Actor
+6/3/2018,Nassarawa,11,Sectarian Actor
 5/31/2018,Rivers,0,Sectarian Actor
 6/4/2018,Taraba,8,Sectarian Actor
 6/5/2018,Benue,2,Sectarian Actor
@@ -6599,10 +6599,10 @@ Date,state,Death,type
 6/6/2018,Benue,5,Sectarian Actor
 6/10/2018,Osun,0,Sectarian Actor
 6/10/2018,Plateau,2,Sectarian Actor
-6/12/2018,Nasarawa,1,Sectarian Actor
+6/12/2018,Nassarawa,1,Sectarian Actor
 6/12/2018,Benue,4,Sectarian Actor
 6/13/2018,Benue,1,Sectarian Actor
-6/13/2018,Nasarawa,4,Sectarian Actor
+6/13/2018,Nassarawa,4,Sectarian Actor
 6/17/2018,Benue,0,Sectarian Actor
 6/22/2018,Adamawa,21,Sectarian Actor
 6/23/2018,Plateau,200,Sectarian Actor
@@ -6634,11 +6634,11 @@ Date,state,Death,type
 9/6/2018,Benue,5,Sectarian Actor
 9/7/2018,Taraba,5,Sectarian Actor
 9/7/2018,Plateau,3,Sectarian Actor
-9/13/2018,Nasarawa,8,Sectarian Actor
+9/13/2018,Nassarawa,8,Sectarian Actor
 9/13/2018,Adamawa,51,Sectarian Actor
 9/15/2018,Taraba,3,Sectarian Actor
 9/17/2018,Delta,1,Sectarian Actor
-9/20/2018,Nasarawa,7,Sectarian Actor
+9/20/2018,Nassarawa,7,Sectarian Actor
 9/28/2018,Plateau,16,Sectarian Actor
 9/30/2018,Plateau,7,Sectarian Actor
 9/30/2018,Plateau,1,Sectarian Actor
@@ -6713,7 +6713,7 @@ Date,state,Death,type
 3/18/2019,Benue,20,Sectarian Actor
 3/19/2019,Benue,10,Sectarian Actor
 3/21/2019,Enugu,1,Sectarian Actor
-3/24/2019,Nasarawa,2,Sectarian Actor
+3/24/2019,Nassarawa,2,Sectarian Actor
 3/25/2019,Cross River,10,Sectarian Actor
 3/27/2019,Kogi,3,Sectarian Actor
 3/31/2019,Kwara,1,Sectarian Actor
@@ -6740,7 +6740,7 @@ Date,state,Death,type
 4/24/2019,Rivers,6,Sectarian Actor
 4/26/2019,Kaduna,3,Sectarian Actor
 4/29/2019,Plateau,3,Sectarian Actor
-4/30/2019,Nasarawa,2,Sectarian Actor
+4/30/2019,Nassarawa,2,Sectarian Actor
 5/2/2019,Ogun,4,Sectarian Actor
 5/2/2019,Adamawa,6,Sectarian Actor
 5/5/2019,Taraba,3,Sectarian Actor
@@ -6821,7 +6821,7 @@ Date,state,Death,type
 9/23/2019,Plateau,3,Sectarian Actor
 9/29/2019,Taraba,5,Sectarian Actor
 10/4/2019,Akwa Ibom,1,Sectarian Actor
-10/6/2019,Nasarawa,3,Sectarian Actor
+10/6/2019,Nassarawa,3,Sectarian Actor
 10/7/2019,Plateau,3,Sectarian Actor
 10/12/2019,Plateau,1,Sectarian Actor
 10/13/2019,Benue,0,Sectarian Actor
@@ -6853,7 +6853,7 @@ Date,state,Death,type
 1/13/2020,Kaduna,1,Sectarian Actor
 1/15/2020,Benue,0,Sectarian Actor
 1/18/2020,Kogi,4,Sectarian Actor
-1/21/2020,Nasarawa,4,Sectarian Actor
+1/21/2020,Nassarawa,4,Sectarian Actor
 1/23/2020,Delta,2,Sectarian Actor
 1/25/2020,Enugu,4,Sectarian Actor
 1/26/2020,Taraba,3,Sectarian Actor
@@ -6983,7 +6983,7 @@ Date,state,Death,type
 9/6/2020,Kaduna,3,Sectarian Actor
 9/8/2020,Kaduna,2,Sectarian Actor
 9/8/2020,Kaduna,1,Sectarian Actor
-9/9/2020,Nasarawa,2,Sectarian Actor
+9/9/2020,Nassarawa,2,Sectarian Actor
 9/11/2020,Kaduna,2,Sectarian Actor
 9/19/2020,Anambra,4,Sectarian Actor
 9/20/2020,Jigawa,1,Sectarian Actor
@@ -7106,7 +7106,7 @@ Date,state,Death,type
 4/21/2021,Benue,2,Sectarian Actor
 4/22/2021,Cross River,4,Sectarian Actor
 4/23/2021,Benue,17,Sectarian Actor
-4/24/2021,Nasarawa,9,Sectarian Actor
+4/24/2021,Nassarawa,9,Sectarian Actor
 4/26/2021,Anambra,19,Sectarian Actor
 4/27/2021,Benue,7,Sectarian Actor
 4/27/2021,Benue,2,Sectarian Actor
@@ -7120,7 +7120,7 @@ Date,state,Death,type
 5/10/2021,Oyo,1,Sectarian Actor
 5/13/2021,Taraba,11,Sectarian Actor
 5/15/2021,Benue,4,Sectarian Actor
-5/15/2021,Nasarawa,3,Sectarian Actor
+5/15/2021,Nassarawa,3,Sectarian Actor
 5/16/2021,Anambra,3,Sectarian Actor
 5/16/2021,Benue,4,Sectarian Actor
 5/16/2021,Taraba,16,Sectarian Actor
@@ -7135,7 +7135,7 @@ Date,state,Death,type
 5/27/2021,Taraba,2,Sectarian Actor
 5/28/2021,Delta,1,Sectarian Actor
 5/29/2021,Gombe,1,Sectarian Actor
-5/29/2021,Nasarawa,1,Sectarian Actor
+5/29/2021,Nassarawa,1,Sectarian Actor
 5/30/2021,Ebonyi,52,Sectarian Actor
 5/30/2021,Enugu,9,Sectarian Actor
 6/4/2021,Oyo,0,Sectarian Actor
@@ -7149,7 +7149,7 @@ Date,state,Death,type
 6/8/2021,Ekiti,0,Sectarian Actor
 6/9/2021,Kwara,3,Sectarian Actor
 6/11/2021,Ekiti,0,Sectarian Actor
-6/11/2021,Nasarawa,6,Sectarian Actor
+6/11/2021,Nassarawa,6,Sectarian Actor
 6/12/2021,Akwa Ibom,1,Sectarian Actor
 6/12/2021,Gombe,8,Sectarian Actor
 6/12/2021,Kwara,0,Sectarian Actor
@@ -7165,7 +7165,7 @@ Date,state,Death,type
 6/29/2021,Osun,0,Sectarian Actor
 6/30/2021,Niger,3,Sectarian Actor
 7/1/2021,Plateau,7,Sectarian Actor
-7/2/2021,Nasarawa,0,Sectarian Actor
+7/2/2021,Nassarawa,0,Sectarian Actor
 7/5/2021,Taraba,3,Sectarian Actor
 7/5/2021,Plateau,0,Sectarian Actor
 7/10/2021,Oyo,1,Sectarian Actor
@@ -7177,10 +7177,10 @@ Date,state,Death,type
 7/18/2021,Benue,10,Sectarian Actor
 7/20/2021,Benue,30,Sectarian Actor
 7/20/2021,Benue,13,Sectarian Actor
-7/21/2021,Nasarawa,5,Sectarian Actor
+7/21/2021,Nassarawa,5,Sectarian Actor
 7/26/2021,Enugu,4,Sectarian Actor
 7/26/2021,Gombe,0,Sectarian Actor
-7/27/2021,Nasarawa,1,Sectarian Actor
+7/27/2021,Nassarawa,1,Sectarian Actor
 7/30/2021,Plateau,1,Sectarian Actor
 7/30/2021,Plateau,3,Sectarian Actor
 7/31/2021,Plateau,13,Sectarian Actor
@@ -7224,7 +7224,7 @@ Date,state,Death,type
 11/14/2021,Delta,0,Sectarian Actor
 11/15/2021,Ondo,2,Sectarian Actor
 11/16/2021,Taraba,2,Sectarian Actor
-11/19/2021,Nasarawa,2,Sectarian Actor
+11/19/2021,Nassarawa,2,Sectarian Actor
 11/20/2021,Ondo,3,Sectarian Actor
 11/21/2021,Enugu,0,Sectarian Actor
 11/21/2021,Delta,0,Sectarian Actor
@@ -7238,7 +7238,7 @@ Date,state,Death,type
 12/8/2021,Adamawa,2,Sectarian Actor
 12/14/2021,Ondo,1,Sectarian Actor
 12/16/2021,Delta,1,Sectarian Actor
-12/19/2021,Nasarawa,45,Sectarian Actor
+12/19/2021,Nassarawa,45,Sectarian Actor
 12/25/2021,Kwara,1,Sectarian Actor
 12/27/2021,Enugu,0,Sectarian Actor
 12/24/2021,Delta,1,Sectarian Actor
@@ -7455,7 +7455,7 @@ Date,state,Death,type
 11/1/2012,Delta,0,Other Armed Actor
 11/3/2012,Kano,1,Other Armed Actor
 11/4/2012,Ekiti,0,Other Armed Actor
-11/4/2012,Nasarawa,0,Other Armed Actor
+11/4/2012,Nassarawa,0,Other Armed Actor
 11/5/2012,Bauchi,2,Other Armed Actor
 11/5/2012,Federal Capital Territory,0,Other Armed Actor
 11/6/2012,Osun,0,Other Armed Actor
@@ -7479,7 +7479,7 @@ Date,state,Death,type
 11/25/2012,Kano,3,Other Armed Actor
 11/26/2012,Federal Capital Territory,2,Other Armed Actor
 11/28/2012,Edo,2,Other Armed Actor
-11/29/2012,Nasarawa,3,Other Armed Actor
+11/29/2012,Nassarawa,3,Other Armed Actor
 11/30/2012,Bauchi,1,Other Armed Actor
 12/5/2012,Taraba,1,Other Armed Actor
 12/6/2012,Kano,2,Other Armed Actor
@@ -7527,7 +7527,7 @@ Date,state,Death,type
 2/1/2013,Gombe,2,Other Armed Actor
 2/2/2013,Delta,1,Other Armed Actor
 2/2/2013,Delta,2,Other Armed Actor
-2/7/2013,Nasarawa,2,Other Armed Actor
+2/7/2013,Nassarawa,2,Other Armed Actor
 2/9/2013,Gombe,2,Other Armed Actor
 2/9/2013,Kano,2,Other Armed Actor
 2/12/2013,Plateau,3,Other Armed Actor
@@ -7599,14 +7599,14 @@ Date,state,Death,type
 2/17/2014,Bauchi,0,Other Armed Actor
 2/18/2014,Plateau,7,Other Armed Actor
 2/20/2014,Lagos,0,Other Armed Actor
-2/21/2014,Nasarawa,0,Other Armed Actor
+2/21/2014,Nassarawa,0,Other Armed Actor
 2/23/2014,Bayelsa,0,Other Armed Actor
 2/27/2014,Plateau,2,Other Armed Actor
 2/27/2014,Plateau,1,Other Armed Actor
 3/8/2014,Adamawa,4,Other Armed Actor
 3/12/2014,Bayelsa,0,Other Armed Actor
 3/22/2014,Plateau,8,Other Armed Actor
-3/24/2014,Nasarawa,5,Other Armed Actor
+3/24/2014,Nassarawa,5,Other Armed Actor
 3/24/2014,Plateau,1,Other Armed Actor
 4/3/2014,Zamfara,28,Other Armed Actor
 4/6/2014,Ogun,1,Other Armed Actor
@@ -7619,7 +7619,7 @@ Date,state,Death,type
 4/17/2014,Delta,1,Other Armed Actor
 4/20/2014,Bauchi,1,Other Armed Actor
 4/22/2014,Delta,2,Other Armed Actor
-4/25/2014,Nasarawa,1,Other Armed Actor
+4/25/2014,Nassarawa,1,Other Armed Actor
 5/6/2014,Kaduna,6,Other Armed Actor
 5/12/2014,Kaduna,4,Other Armed Actor
 5/13/2014,Borno,200,Other Armed Actor
@@ -7661,7 +7661,7 @@ Date,state,Death,type
 7/31/2014,Bauchi,1,Other Armed Actor
 7/31/2014,Taraba,14,Other Armed Actor
 8/4/2014,Rivers,3,Other Armed Actor
-8/5/2014,Nasarawa,4,Other Armed Actor
+8/5/2014,Nassarawa,4,Other Armed Actor
 8/8/2014,Osun,0,Other Armed Actor
 8/17/2014,Plateau,2,Other Armed Actor
 8/21/2014,Bauchi,3,Other Armed Actor
@@ -7678,7 +7678,7 @@ Date,state,Death,type
 9/8/2014,Rivers,1,Other Armed Actor
 9/14/2014,Rivers,4,Other Armed Actor
 9/18/2014,Rivers,1,Other Armed Actor
-9/18/2014,Nasarawa,1,Other Armed Actor
+9/18/2014,Nassarawa,1,Other Armed Actor
 9/21/2014,Kogi,0,Other Armed Actor
 10/3/2014,Bayelsa,1,Other Armed Actor
 10/5/2014,Abia,1,Other Armed Actor
@@ -7702,7 +7702,7 @@ Date,state,Death,type
 10/31/2014,Kano,0,Other Armed Actor
 10/31/2014,Katsina,6,Other Armed Actor
 11/2/2014,Kogi,1,Other Armed Actor
-11/8/2014,Nasarawa,1,Other Armed Actor
+11/8/2014,Nassarawa,1,Other Armed Actor
 11/11/2014,Plateau,1,Other Armed Actor
 11/11/2014,Adamawa,80,Other Armed Actor
 11/13/2014,Adamawa,20,Other Armed Actor
@@ -7715,7 +7715,7 @@ Date,state,Death,type
 11/24/2014,Bayelsa,1,Other Armed Actor
 11/24/2014,Adamawa,10,Other Armed Actor
 11/27/2014,Borno,30,Other Armed Actor
-11/28/2014,Nasarawa,2,Other Armed Actor
+11/28/2014,Nassarawa,2,Other Armed Actor
 11/28/2014,Rivers,15,Other Armed Actor
 11/30/2014,Rivers,2,Other Armed Actor
 11/30/2014,Ekiti,1,Other Armed Actor
@@ -7743,7 +7743,7 @@ Date,state,Death,type
 1/27/2015,Cross River,0,Other Armed Actor
 2/2/2015,Bayelsa,3,Other Armed Actor
 2/4/2015,Akwa Ibom,1,Other Armed Actor
-2/14/2015,Nasarawa,1,Other Armed Actor
+2/14/2015,Nassarawa,1,Other Armed Actor
 2/15/2015,Kwara,4,Other Armed Actor
 2/16/2015,Borno,5,Other Armed Actor
 2/16/2015,Borno,0,Other Armed Actor
@@ -7818,7 +7818,7 @@ Date,state,Death,type
 7/14/2015,Osun,1,Other Armed Actor
 7/16/2015,Lagos,1,Other Armed Actor
 7/17/2015,Benue,20,Other Armed Actor
-7/17/2015,Nasarawa,5,Other Armed Actor
+7/17/2015,Nassarawa,5,Other Armed Actor
 7/18/2015,Benue,2,Other Armed Actor
 7/21/2015,Rivers,1,Other Armed Actor
 7/25/2015,Ogun,4,Other Armed Actor
@@ -8095,7 +8095,7 @@ Date,state,Death,type
 11/26/2016,Edo,2,Other Armed Actor
 11/26/2016,Anambra,1,Other Armed Actor
 11/27/2016,Delta,0,Other Armed Actor
-11/28/2016,Nasarawa,4,Other Armed Actor
+11/28/2016,Nassarawa,4,Other Armed Actor
 12/1/2016,Imo,10,Other Armed Actor
 12/3/2016,Kaduna,0,Other Armed Actor
 12/1/2016,Lagos,1,Other Armed Actor
@@ -8219,7 +8219,7 @@ Date,state,Death,type
 5/20/2017,Delta,0,Other Armed Actor
 5/21/2017,Rivers,4,Other Armed Actor
 5/21/2017,Rivers,1,Other Armed Actor
-5/22/2017,Nasarawa,1,Other Armed Actor
+5/22/2017,Nassarawa,1,Other Armed Actor
 5/22/2017,Kogi,4,Other Armed Actor
 5/22/2017,Kogi,3,Other Armed Actor
 5/23/2017,Rivers,1,Other Armed Actor
@@ -8368,7 +8368,7 @@ Date,state,Death,type
 11/30/2017,Borno,3,Other Armed Actor
 11/30/2017,Plateau,0,Other Armed Actor
 12/2/2017,Bayelsa,4,Other Armed Actor
-12/4/2017,Nasarawa,2,Other Armed Actor
+12/4/2017,Nassarawa,2,Other Armed Actor
 11/30/2017,Delta,1,Other Armed Actor
 12/10/2017,Bayelsa,1,Other Armed Actor
 12/10/2017,Cross River,3,Other Armed Actor
@@ -8492,7 +8492,7 @@ Date,state,Death,type
 5/16/2018,Rivers,1,Other Armed Actor
 5/19/2018,Ondo,0,Other Armed Actor
 5/20/2018,Kaduna,1,Other Armed Actor
-5/20/2018,Nasarawa,40,Other Armed Actor
+5/20/2018,Nassarawa,40,Other Armed Actor
 5/20/2018,Abia,6,Other Armed Actor
 5/22/2018,Kaduna,10,Other Armed Actor
 5/23/2018,Kaduna,21,Other Armed Actor
@@ -8534,7 +8534,7 @@ Date,state,Death,type
 6/14/2018,Ebonyi,0,Other Armed Actor
 6/14/2018,Benue,5,Other Armed Actor
 6/16/2018,Benue,2,Other Armed Actor
-6/15/2018,Nasarawa,1,Other Armed Actor
+6/15/2018,Nassarawa,1,Other Armed Actor
 6/16/2018,Plateau,3,Other Armed Actor
 6/17/2018,Plateau,1,Other Armed Actor
 6/17/2018,Lagos,1,Other Armed Actor
@@ -8563,7 +8563,7 @@ Date,state,Death,type
 7/14/2018,Anambra,2,Other Armed Actor
 7/14/2018,Plateau,0,Other Armed Actor
 7/14/2018,Zamfara,1,Other Armed Actor
-7/15/2018,Nasarawa,1,Other Armed Actor
+7/15/2018,Nassarawa,1,Other Armed Actor
 7/16/2018,Kaduna,4,Other Armed Actor
 7/11/2018,Lagos,2,Other Armed Actor
 7/17/2018,Kogi,1,Other Armed Actor
@@ -8714,7 +8714,7 @@ Date,state,Death,type
 12/23/2018,Rivers,1,Other Armed Actor
 12/23/2018,Rivers,5,Other Armed Actor
 12/24/2018,Rivers,4,Other Armed Actor
-12/20/2018,Nasarawa,1,Other Armed Actor
+12/20/2018,Nassarawa,1,Other Armed Actor
 12/25/2018,Plateau,5,Other Armed Actor
 12/26/2018,Plateau,5,Other Armed Actor
 12/26/2018,Benue,1,Other Armed Actor
@@ -8733,7 +8733,7 @@ Date,state,Death,type
 1/6/2019,Ogun,1,Other Armed Actor
 1/6/2019,Oyo,0,Other Armed Actor
 1/4/2019,Bayelsa,0,Other Armed Actor
-1/7/2019,Nasarawa,0,Other Armed Actor
+1/7/2019,Nassarawa,0,Other Armed Actor
 1/8/2019,Lagos,3,Other Armed Actor
 1/8/2019,Lagos,1,Other Armed Actor
 12/19/2018,Katsina,0,Other Armed Actor
@@ -8751,7 +8751,7 @@ Date,state,Death,type
 1/20/2019,Rivers,3,Other Armed Actor
 1/21/2019,Ondo,1,Other Armed Actor
 1/22/2019,Ondo,1,Other Armed Actor
-1/25/2019,Nasarawa,3,Other Armed Actor
+1/25/2019,Nassarawa,3,Other Armed Actor
 1/26/2019,Edo,3,Other Armed Actor
 1/28/2019,Zamfara,33,Other Armed Actor
 1/28/2019,Delta,0,Other Armed Actor
@@ -8865,7 +8865,7 @@ Date,state,Death,type
 4/14/2019,Lagos,4,Other Armed Actor
 4/14/2019,Lagos,5,Other Armed Actor
 4/14/2019,Zamfara,10,Other Armed Actor
-4/14/2019,Nasarawa,17,Other Armed Actor
+4/14/2019,Nassarawa,17,Other Armed Actor
 4/15/2019,Cross River,1,Other Armed Actor
 4/13/2019,Delta,0,Other Armed Actor
 4/16/2019,Anambra,1,Other Armed Actor
@@ -8893,14 +8893,14 @@ Date,state,Death,type
 4/30/2019,Katsina,17,Other Armed Actor
 4/30/2019,Lagos,1,Other Armed Actor
 5/1/2019,Zamfara,0,Other Armed Actor
-5/3/2019,Nasarawa,2,Other Armed Actor
+5/3/2019,Nassarawa,2,Other Armed Actor
 5/3/2019,Rivers,1,Other Armed Actor
 5/3/2019,Sokoto,1,Other Armed Actor
 5/3/2019,Osun,0,Other Armed Actor
 5/4/2019,Zamfara,31,Other Armed Actor
 5/3/2019,Zamfara,20,Other Armed Actor
 5/5/2019,Kogi,1,Other Armed Actor
-5/5/2019,Nasarawa,1,Other Armed Actor
+5/5/2019,Nassarawa,1,Other Armed Actor
 5/5/2019,Rivers,3,Other Armed Actor
 5/5/2019,Lagos,1,Other Armed Actor
 5/7/2019,Edo,11,Other Armed Actor
@@ -8924,7 +8924,7 @@ Date,state,Death,type
 5/16/2019,Katsina,11,Other Armed Actor
 5/18/2019,Zamfara,17,Other Armed Actor
 5/18/2019,Plateau,1,Other Armed Actor
-5/18/2019,Nasarawa,1,Other Armed Actor
+5/18/2019,Nassarawa,1,Other Armed Actor
 5/19/2019,Rivers,20,Other Armed Actor
 5/19/2019,Rivers,2,Other Armed Actor
 5/20/2019,Taraba,3,Other Armed Actor
@@ -9208,7 +9208,7 @@ Date,state,Death,type
 1/6/2020,Borno,1,Other Armed Actor
 1/6/2020,Rivers,4,Other Armed Actor
 1/7/2020,Katsina,2,Other Armed Actor
-1/7/2020,Nasarawa,1,Other Armed Actor
+1/7/2020,Nassarawa,1,Other Armed Actor
 1/7/2020,Bayelsa,0,Other Armed Actor
 1/8/2020,Katsina,10,Other Armed Actor
 1/8/2020,Delta,1,Other Armed Actor
@@ -9436,7 +9436,7 @@ Date,state,Death,type
 5/24/2020,Lagos,4,Other Armed Actor
 5/24/2020,Rivers,1,Other Armed Actor
 5/27/2020,Delta,2,Other Armed Actor
-5/27/2020,Nasarawa,1,Other Armed Actor
+5/27/2020,Nassarawa,1,Other Armed Actor
 5/27/2020,Sokoto,74,Other Armed Actor
 5/28/2020,Katsina,13,Other Armed Actor
 5/28/2020,Katsina,2,Other Armed Actor
@@ -9463,7 +9463,7 @@ Date,state,Death,type
 6/6/2020,Rivers,1,Other Armed Actor
 6/6/2020,Delta,0,Other Armed Actor
 6/9/2020,Katsina,57,Other Armed Actor
-6/9/2020,Nasarawa,0,Other Armed Actor
+6/9/2020,Nassarawa,0,Other Armed Actor
 6/10/2020,Kogi,3,Other Armed Actor
 6/10/2020,Bayelsa,5,Other Armed Actor
 6/12/2020,Katsina,8,Other Armed Actor
@@ -9499,7 +9499,7 @@ Date,state,Death,type
 6/26/2020,Katsina,9,Other Armed Actor
 6/26/2020,Kaduna,1,Other Armed Actor
 6/29/2020,Oyo,0,Other Armed Actor
-7/1/2020,Nasarawa,2,Other Armed Actor
+7/1/2020,Nassarawa,2,Other Armed Actor
 7/1/2020,Kogi,0,Other Armed Actor
 7/2/2020,Rivers,0,Other Armed Actor
 7/2/2020,Katsina,2,Other Armed Actor
@@ -9545,7 +9545,7 @@ Date,state,Death,type
 7/25/2020,Kogi,3,Other Armed Actor
 7/26/2020,Niger,2,Other Armed Actor
 7/27/2020,Niger,0,Other Armed Actor
-7/27/2020,Nasarawa,5,Other Armed Actor
+7/27/2020,Nassarawa,5,Other Armed Actor
 7/27/2020,Rivers,2,Other Armed Actor
 7/28/2020,Katsina,3,Other Armed Actor
 7/28/2020,Ogun,2,Other Armed Actor
@@ -9553,10 +9553,10 @@ Date,state,Death,type
 7/29/2020,Oyo,5,Other Armed Actor
 7/29/2020,Kaduna,1,Other Armed Actor
 7/30/2020,Delta,2,Other Armed Actor
-7/31/2020,Nasarawa,1,Other Armed Actor
+7/31/2020,Nassarawa,1,Other Armed Actor
 8/2/2020,Cross River,5,Other Armed Actor
-7/27/2020,Nasarawa,5,Other Armed Actor
-8/3/2020,Nasarawa,2,Other Armed Actor
+7/27/2020,Nassarawa,5,Other Armed Actor
+8/3/2020,Nassarawa,2,Other Armed Actor
 8/4/2020,Bayelsa,6,Other Armed Actor
 8/4/2020,Katsina,1,Other Armed Actor
 8/5/2020,Bayelsa,4,Other Armed Actor
@@ -9619,7 +9619,7 @@ Date,state,Death,type
 9/12/2020,Rivers,0,Other Armed Actor
 9/11/2020,Kaduna,0,Other Armed Actor
 9/14/2020,Ekiti,1,Other Armed Actor
-9/14/2020,Nasarawa,2,Other Armed Actor
+9/14/2020,Nassarawa,2,Other Armed Actor
 9/14/2020,Federal Capital Territory,0,Other Armed Actor
 9/14/2020,Katsina,1,Other Armed Actor
 9/14/2020,Katsina,1,Other Armed Actor
@@ -9631,7 +9631,7 @@ Date,state,Death,type
 9/18/2020,Kogi,1,Other Armed Actor
 9/19/2020,Akwa Ibom,2,Other Armed Actor
 9/20/2020,Abia,5,Other Armed Actor
-9/21/2020,Nasarawa,1,Other Armed Actor
+9/21/2020,Nassarawa,1,Other Armed Actor
 9/21/2020,Plateau,1,Other Armed Actor
 9/22/2020,Jigawa,2,Other Armed Actor
 9/23/2020,Plateau,1,Other Armed Actor
@@ -9680,7 +9680,7 @@ Date,state,Death,type
 10/17/2020,Lagos,0,Other Armed Actor
 10/17/2020,Lagos,2,Other Armed Actor
 10/17/2020,Ekiti,0,Other Armed Actor
-10/18/2020,Nasarawa,2,Other Armed Actor
+10/18/2020,Nassarawa,2,Other Armed Actor
 10/18/2020,Kwara,2,Other Armed Actor
 10/18/2020,Delta,3,Other Armed Actor
 10/18/2020,Abia,3,Other Armed Actor
@@ -9755,7 +9755,7 @@ Date,state,Death,type
 10/25/2020,Katsina,1,Other Armed Actor
 10/25/2020,Oyo,1,Other Armed Actor
 10/25/2020,Plateau,8,Other Armed Actor
-10/25/2020,Nasarawa,1,Other Armed Actor
+10/25/2020,Nassarawa,1,Other Armed Actor
 10/25/2020,Rivers,1,Other Armed Actor
 10/25/2020,Lagos,0,Other Armed Actor
 10/26/2020,Kogi,1,Other Armed Actor
@@ -9960,7 +9960,7 @@ Date,state,Death,type
 1/5/2021,Rivers,2,Other Armed Actor
 1/6/2021,Kaduna,4,Other Armed Actor
 1/6/2021,Rivers,1,Other Armed Actor
-1/7/2021,Nasarawa,1,Other Armed Actor
+1/7/2021,Nassarawa,1,Other Armed Actor
 1/8/2021,Zamfara,0,Other Armed Actor
 1/8/2021,Ebonyi,3,Other Armed Actor
 1/9/2021,Kaduna,3,Other Armed Actor
@@ -10019,7 +10019,7 @@ Date,state,Death,type
 1/23/2021,Rivers,1,Other Armed Actor
 1/23/2021,Kaduna,20,Other Armed Actor
 1/23/2021,Kaduna,1,Other Armed Actor
-1/23/2021,Nasarawa,1,Other Armed Actor
+1/23/2021,Nassarawa,1,Other Armed Actor
 1/23/2021,Rivers,1,Other Armed Actor
 1/24/2021,Kaduna,1,Other Armed Actor
 1/24/2021,Niger,6,Other Armed Actor
@@ -10195,7 +10195,7 @@ Date,state,Death,type
 3/9/2021,Niger,1,Other Armed Actor
 3/2/2021,Zamfara,10,Other Armed Actor
 3/10/2021,Zamfara,13,Other Armed Actor
-3/10/2021,Nasarawa,17,Other Armed Actor
+3/10/2021,Nassarawa,17,Other Armed Actor
 3/10/2021,Ekiti,0,Other Armed Actor
 3/10/2021,Kaduna,4,Other Armed Actor
 3/10/2021,Kaduna,1,Other Armed Actor
@@ -10285,7 +10285,7 @@ Date,state,Death,type
 4/1/2021,Niger,14,Other Armed Actor
 4/1/2021,Kaduna,1,Other Armed Actor
 4/1/2021,Kaduna,1,Other Armed Actor
-4/2/2021,Nasarawa,2,Other Armed Actor
+4/2/2021,Nassarawa,2,Other Armed Actor
 4/2/2021,Imo,3,Other Armed Actor
 4/3/2021,Delta,4,Other Armed Actor
 4/3/2021,Delta,0,Other Armed Actor
@@ -10704,7 +10704,7 @@ Date,state,Death,type
 7/25/2021,Oyo,1,Other Armed Actor
 7/25/2021,Lagos,0,Other Armed Actor
 7/26/2021,Imo,7,Other Armed Actor
-7/26/2021,Nasarawa,1,Other Armed Actor
+7/26/2021,Nassarawa,1,Other Armed Actor
 7/26/2021,Abia,1,Other Armed Actor
 7/26/2021,Zamfara,20,Other Armed Actor
 7/27/2021,Rivers,1,Other Armed Actor
@@ -10810,7 +10810,7 @@ Date,state,Death,type
 8/31/2021,Kogi,9,Other Armed Actor
 8/31/2021,Rivers,1,Other Armed Actor
 8/31/2021,Enugu,2,Other Armed Actor
-9/1/2021,Nasarawa,0,Other Armed Actor
+9/1/2021,Nassarawa,0,Other Armed Actor
 9/1/2021,Zamfara,0,Other Armed Actor
 9/1/2021,Niger,47,Other Armed Actor
 9/3/2021,Niger,19,Other Armed Actor
@@ -10926,14 +10926,14 @@ Date,state,Death,type
 10/8/2021,Enugu,0,Other Armed Actor
 10/8/2021,Sokoto,20,Other Armed Actor
 10/8/2021,Kogi,1,Other Armed Actor
-10/9/2021,Nasarawa,0,Other Armed Actor
+10/9/2021,Nassarawa,0,Other Armed Actor
 10/9/2021,Enugu,0,Other Armed Actor
 10/10/2021,Niger,37,Other Armed Actor
 10/10/2021,Adamawa,0,Other Armed Actor
 10/10/2021,Lagos,3,Other Armed Actor
 10/10/2021,Akwa Ibom,2,Other Armed Actor
 10/11/2021,Enugu,1,Other Armed Actor
-10/11/2021,Nasarawa,0,Other Armed Actor
+10/11/2021,Nassarawa,0,Other Armed Actor
 10/11/2021,Bayelsa,0,Other Armed Actor
 10/12/2021,Anambra,7,Other Armed Actor
 10/12/2021,Niger,12,Other Armed Actor
@@ -11536,7 +11536,7 @@ Date,state,Death,type
 4/24/2022,Kwara,3,Other Armed Actor
 4/24/2022,Zamfara,7,Other Armed Actor
 4/22/2022,Delta,0,Other Armed Actor
-4/21/2022,Nasarawa,0,Other Armed Actor
+4/21/2022,Nassarawa,0,Other Armed Actor
 4/25/2022,Bayelsa,1,Other Armed Actor
 4/25/2022,Imo,0,Other Armed Actor
 4/25/2022,Imo,2,Other Armed Actor
@@ -11633,7 +11633,7 @@ Date,state,Death,type
 5/27/2022,Cross River,1,Other Armed Actor
 5/27/2022,Delta,1,Other Armed Actor
 5/28/2022,Kaduna,1,Other Armed Actor
-5/29/2022,Nasarawa,1,Other Armed Actor
+5/29/2022,Nassarawa,1,Other Armed Actor
 5/29/2022,Anambra,0,Other Armed Actor
 5/29/2022,Cross River,20,Other Armed Actor
 5/30/2022,Anambra,0,Other Armed Actor
@@ -11943,7 +11943,7 @@ Date,state,Death,type
 2/21/2015,Bayelsa,0,Kidnapper
 2/22/2015,Rivers,0,Kidnapper
 2/23/2015,Kogi,0,Kidnapper
-2/23/2015,Nasarawa,0,Kidnapper
+2/23/2015,Nassarawa,0,Kidnapper
 2/26/2015,Kogi,0,Kidnapper
 2/27/2015,Rivers,1,Kidnapper
 3/9/2015,Bauchi,0,Kidnapper
@@ -11952,7 +11952,7 @@ Date,state,Death,type
 3/19/2015,Bayelsa,0,Kidnapper
 3/20/2015,Zamfara,0,Kidnapper
 4/8/2015,Sokoto,0,Kidnapper
-4/13/2015,Nasarawa,0,Kidnapper
+4/13/2015,Nassarawa,0,Kidnapper
 4/18/2015,Rivers,0,Kidnapper
 4/21/2015,Bayelsa,0,Kidnapper
 4/26/2015,Ondo,0,Kidnapper
@@ -11984,7 +11984,7 @@ Date,state,Death,type
 6/18/2015,Ondo,0,Kidnapper
 6/22/2015,Ondo,0,Kidnapper
 6/24/2015,Bayelsa,2,Kidnapper
-6/29/2015,Nasarawa,0,Kidnapper
+6/29/2015,Nassarawa,0,Kidnapper
 6/29/2015,Bayelsa,0,Kidnapper
 7/6/2015,Rivers,3,Kidnapper
 7/7/2015,Ekiti,0,Kidnapper
@@ -12004,7 +12004,7 @@ Date,state,Death,type
 9/14/2015,Lagos,0,Kidnapper
 9/14/2015,Rivers,0,Kidnapper
 9/11/2015,Enugu,0,Kidnapper
-9/19/2015,Nasarawa,1,Kidnapper
+9/19/2015,Nassarawa,1,Kidnapper
 9/20/2015,Bayelsa,0,Kidnapper
 9/21/2015,Niger,0,Kidnapper
 9/22/2015,Edo,1,Kidnapper
@@ -12106,7 +12106,7 @@ Date,state,Death,type
 8/3/2016,Kaduna,0,Kidnapper
 8/3/2016,Rivers,3,Kidnapper
 8/4/2016,Rivers,0,Kidnapper
-8/6/2016,Nasarawa,0,Kidnapper
+8/6/2016,Nassarawa,0,Kidnapper
 8/6/2016,Bayelsa,0,Kidnapper
 8/8/2016,Benue,0,Kidnapper
 8/10/2016,Rivers,3,Kidnapper
@@ -12145,7 +12145,7 @@ Date,state,Death,type
 11/10/2016,Oyo,0,Kidnapper
 11/14/2016,Bayelsa,0,Kidnapper
 11/16/2016,Kaduna,0,Kidnapper
-11/17/2016,Nasarawa,0,Kidnapper
+11/17/2016,Nassarawa,0,Kidnapper
 11/19/2016,Rivers,0,Kidnapper
 11/20/2016,Kaduna,0,Kidnapper
 11/27/2016,Lagos,0,Kidnapper
@@ -12191,7 +12191,7 @@ Date,state,Death,type
 3/8/2017,Edo,0,Kidnapper
 3/12/2017,Cross River,0,Kidnapper
 3/15/2017,Imo,0,Kidnapper
-3/18/2017,Nasarawa,0,Kidnapper
+3/18/2017,Nassarawa,0,Kidnapper
 3/20/2017,Ekiti,0,Kidnapper
 3/26/2017,Sokoto,0,Kidnapper
 3/27/2017,Rivers,2,Kidnapper
@@ -12202,7 +12202,7 @@ Date,state,Death,type
 4/13/2017,Federal Capital Territory,0,Kidnapper
 4/28/2017,Imo,0,Kidnapper
 4/30/2017,Delta,0,Kidnapper
-5/6/2017,Nasarawa,0,Kidnapper
+5/6/2017,Nassarawa,0,Kidnapper
 5/6/2017,Delta,0,Kidnapper
 5/10/2017,Delta,0,Kidnapper
 5/12/2017,Delta,5,Kidnapper
@@ -12238,9 +12238,9 @@ Date,state,Death,type
 7/26/2017,Cross River,0,Kidnapper
 8/2/2017,Lagos,0,Kidnapper
 8/7/2017,Rivers,0,Kidnapper
-8/9/2017,Nasarawa,1,Kidnapper
+8/9/2017,Nassarawa,1,Kidnapper
 8/18/2017,Katsina,0,Kidnapper
-8/22/2017,Nasarawa,0,Kidnapper
+8/22/2017,Nassarawa,0,Kidnapper
 8/27/2017,Ondo,0,Kidnapper
 8/28/2017,Rivers,0,Kidnapper
 9/3/2017,Kaduna,0,Kidnapper
@@ -12277,7 +12277,7 @@ Date,state,Death,type
 11/24/2017,Ondo,2,Kidnapper
 11/30/2017,Kwara,0,Kidnapper
 12/3/2017,Kogi,0,Kidnapper
-12/3/2017,Nasarawa,0,Kidnapper
+12/3/2017,Nassarawa,0,Kidnapper
 12/6/2017,Kaduna,0,Kidnapper
 12/8/2017,Kaduna,0,Kidnapper
 12/10/2017,Niger,3,Kidnapper
@@ -12297,7 +12297,7 @@ Date,state,Death,type
 1/20/2018,Niger,0,Kidnapper
 1/22/2018,Zamfara,6,Kidnapper
 1/23/2018,Adamawa,9,Kidnapper
-2/2/2018,Nasarawa,1,Kidnapper
+2/2/2018,Nassarawa,1,Kidnapper
 2/3/2018,Delta,0,Kidnapper
 2/2/2018,Ogun,1,Kidnapper
 2/8/2018,Cross River,0,Kidnapper
@@ -12388,7 +12388,7 @@ Date,state,Death,type
 10/13/2018,Delta,1,Kidnapper
 10/15/2018,Delta,0,Kidnapper
 10/19/2018,Kaduna,4,Kidnapper
-10/20/2018,Nasarawa,0,Kidnapper
+10/20/2018,Nassarawa,0,Kidnapper
 10/21/2018,Zamfara,0,Kidnapper
 10/24/2018,Imo,0,Kidnapper
 10/24/2018,Rivers,0,Kidnapper
@@ -12399,7 +12399,7 @@ Date,state,Death,type
 10/29/2018,Delta,0,Kidnapper
 10/30/2018,Adamawa,0,Kidnapper
 10/31/2018,Katsina,0,Kidnapper
-11/1/2018,Nasarawa,0,Kidnapper
+11/1/2018,Nassarawa,0,Kidnapper
 11/1/2018,Imo,0,Kidnapper
 11/5/2018,Kogi,0,Kidnapper
 11/6/2018,Delta,0,Kidnapper
@@ -12411,7 +12411,7 @@ Date,state,Death,type
 12/3/2018,Gombe,0,Kidnapper
 12/4/2018,Osun,1,Kidnapper
 12/4/2018,Ondo,0,Kidnapper
-12/9/2018,Nasarawa,0,Kidnapper
+12/9/2018,Nassarawa,0,Kidnapper
 12/9/2018,Kebbi,0,Kidnapper
 12/10/2018,Ondo,1,Kidnapper
 12/11/2018,Lagos,1,Kidnapper
@@ -12443,7 +12443,7 @@ Date,state,Death,type
 2/13/2019,Ondo,0,Kidnapper
 2/14/2019,Delta,0,Kidnapper
 2/18/2019,Adamawa,0,Kidnapper
-2/18/2019,Nasarawa,0,Kidnapper
+2/18/2019,Nassarawa,0,Kidnapper
 2/18/2019,Ondo,0,Kidnapper
 2/20/2019,Plateau,0,Kidnapper
 2/20/2019,Rivers,0,Kidnapper
@@ -12472,7 +12472,7 @@ Date,state,Death,type
 3/26/2019,Zamfara,0,Kidnapper
 3/27/2019,Edo,1,Kidnapper
 3/27/2019,Taraba,0,Kidnapper
-3/27/2019,Nasarawa,0,Kidnapper
+3/27/2019,Nassarawa,0,Kidnapper
 3/28/2019,Rivers,5,Kidnapper
 3/29/2019,Imo,0,Kidnapper
 3/30/2019,Bayelsa,0,Kidnapper
@@ -12657,7 +12657,7 @@ Date,state,Death,type
 10/9/2019,Edo,4,Kidnapper
 10/9/2019,Kaduna,0,Kidnapper
 10/9/2019,Kebbi,0,Kidnapper
-10/9/2019,Nasarawa,0,Kidnapper
+10/9/2019,Nassarawa,0,Kidnapper
 10/13/2019,Edo,1,Kidnapper
 10/14/2019,Federal Capital Territory,2,Kidnapper
 10/14/2019,Delta,0,Kidnapper
@@ -12778,7 +12778,7 @@ Date,state,Death,type
 2/14/2020,Edo,0,Kidnapper
 2/14/2020,Edo,0,Kidnapper
 2/15/2020,Cross River,0,Kidnapper
-2/15/2020,Nasarawa,0,Kidnapper
+2/15/2020,Nassarawa,0,Kidnapper
 2/16/2020,Kogi,0,Kidnapper
 2/16/2020,Kogi,0,Kidnapper
 2/18/2020,Cross River,0,Kidnapper
@@ -12817,7 +12817,7 @@ Date,state,Death,type
 3/29/2020,Jigawa,0,Kidnapper
 4/4/2020,Adamawa,0,Kidnapper
 4/4/2020,Imo,0,Kidnapper
-4/4/2020,Nasarawa,0,Kidnapper
+4/4/2020,Nassarawa,0,Kidnapper
 4/3/2020,Federal Capital Territory,0,Kidnapper
 4/6/2020,Federal Capital Territory,1,Kidnapper
 4/7/2020,Kogi,4,Kidnapper
@@ -12834,11 +12834,11 @@ Date,state,Death,type
 4/26/2020,Ekiti,1,Kidnapper
 4/26/2020,Cross River,0,Kidnapper
 4/7/2020,Rivers,3,Kidnapper
-4/30/2020,Nasarawa,0,Kidnapper
+4/30/2020,Nassarawa,0,Kidnapper
 5/3/2020,Benue,0,Kidnapper
 5/4/2020,Abia,0,Kidnapper
-5/5/2020,Nasarawa,4,Kidnapper
-5/7/2020,Nasarawa,1,Kidnapper
+5/5/2020,Nassarawa,4,Kidnapper
+5/7/2020,Nassarawa,1,Kidnapper
 5/8/2020,Bayelsa,0,Kidnapper
 5/9/2020,Bayelsa,0,Kidnapper
 5/8/2020,Federal Capital Territory,0,Kidnapper
@@ -12855,14 +12855,14 @@ Date,state,Death,type
 5/25/2020,Enugu,1,Kidnapper
 5/27/2020,Abia,0,Kidnapper
 5/27/2020,Katsina,2,Kidnapper
-5/28/2020,Nasarawa,0,Kidnapper
+5/28/2020,Nassarawa,0,Kidnapper
 5/16/2020,Edo,1,Kidnapper
 5/29/2020,Delta,0,Kidnapper
 5/30/2020,Niger,0,Kidnapper
 5/30/2020,Jigawa,0,Kidnapper
 5/31/2020,Delta,0,Kidnapper
 6/1/2020,Niger,1,Kidnapper
-5/29/2020,Nasarawa,1,Kidnapper
+5/29/2020,Nassarawa,1,Kidnapper
 6/2/2020,Plateau,0,Kidnapper
 6/2/2020,Kogi,2,Kidnapper
 6/3/2020,Ebonyi,0,Kidnapper
@@ -12871,7 +12871,7 @@ Date,state,Death,type
 6/10/2020,Kogi,1,Kidnapper
 6/11/2020,Adamawa,0,Kidnapper
 6/14/2020,Federal Capital Territory,0,Kidnapper
-6/15/2020,Nasarawa,0,Kidnapper
+6/15/2020,Nassarawa,0,Kidnapper
 6/16/2020,Adamawa,0,Kidnapper
 6/18/2020,Plateau,0,Kidnapper
 6/19/2020,Plateau,3,Kidnapper
@@ -12885,7 +12885,7 @@ Date,state,Death,type
 7/6/2020,Federal Capital Territory,0,Kidnapper
 7/6/2020,Adamawa,0,Kidnapper
 7/7/2020,Ondo,0,Kidnapper
-7/8/2020,Nasarawa,2,Kidnapper
+7/8/2020,Nassarawa,2,Kidnapper
 7/8/2020,Edo,2,Kidnapper
 7/8/2020,Abia,0,Kidnapper
 7/9/2020,Federal Capital Territory,0,Kidnapper
@@ -12895,7 +12895,7 @@ Date,state,Death,type
 7/13/2020,Taraba,0,Kidnapper
 7/13/2020,Taraba,0,Kidnapper
 7/14/2020,Kogi,1,Kidnapper
-7/14/2020,Nasarawa,2,Kidnapper
+7/14/2020,Nassarawa,2,Kidnapper
 7/15/2020,Ogun,1,Kidnapper
 7/16/2020,Taraba,0,Kidnapper
 7/16/2020,Benue,1,Kidnapper
@@ -12908,7 +12908,7 @@ Date,state,Death,type
 7/21/2020,Ondo,0,Kidnapper
 7/21/2020,Abia,0,Kidnapper
 7/22/2020,Cross River,1,Kidnapper
-7/22/2020,Nasarawa,0,Kidnapper
+7/22/2020,Nassarawa,0,Kidnapper
 7/23/2020,Adamawa,0,Kidnapper
 7/24/2020,Benue,0,Kidnapper
 7/25/2020,Kogi,3,Kidnapper
@@ -12946,16 +12946,16 @@ Date,state,Death,type
 9/19/2020,Zamfara,0,Kidnapper
 9/23/2020,Katsina,0,Kidnapper
 9/24/2020,Katsina,0,Kidnapper
-9/25/2020,Nasarawa,2,Kidnapper
+9/25/2020,Nassarawa,2,Kidnapper
 9/26/2020,Delta,0,Kidnapper
 9/27/2020,Kaduna,1,Kidnapper
-9/28/2020,Nasarawa,0,Kidnapper
+9/28/2020,Nassarawa,0,Kidnapper
 10/1/2020,Kaduna,0,Kidnapper
 10/3/2020,Jigawa,0,Kidnapper
 10/3/2020,Rivers,0,Kidnapper
 10/5/2020,Delta,0,Kidnapper
 10/6/2020,Zamfara,0,Kidnapper
-10/6/2020,Nasarawa,0,Kidnapper
+10/6/2020,Nassarawa,0,Kidnapper
 10/6/2020,Kogi,0,Kidnapper
 10/7/2020,Kogi,0,Kidnapper
 10/7/2020,Federal Capital Territory,0,Kidnapper
@@ -12973,9 +12973,9 @@ Date,state,Death,type
 10/25/2020,Zamfara,0,Kidnapper
 10/26/2020,Jigawa,0,Kidnapper
 10/28/2020,Anambra,0,Kidnapper
-10/27/2020,Nasarawa,0,Kidnapper
-10/27/2020,Nasarawa,0,Kidnapper
-10/30/2020,Nasarawa,0,Kidnapper
+10/27/2020,Nassarawa,0,Kidnapper
+10/27/2020,Nassarawa,0,Kidnapper
+10/30/2020,Nassarawa,0,Kidnapper
 10/30/2020,Ondo,0,Kidnapper
 11/3/2020,Kaduna,1,Kidnapper
 11/4/2020,Federal Capital Territory,0,Kidnapper
@@ -12997,10 +12997,10 @@ Date,state,Death,type
 11/17/2020,Edo,0,Kidnapper
 11/20/2020,Edo,0,Kidnapper
 11/20/2020,Kaduna,1,Kidnapper
-11/21/2020,Nasarawa,1,Kidnapper
+11/21/2020,Nassarawa,1,Kidnapper
 11/21/2020,Kogi,0,Kidnapper
 11/22/2020,Federal Capital Territory,0,Kidnapper
-11/22/2020,Nasarawa,1,Kidnapper
+11/22/2020,Nassarawa,1,Kidnapper
 11/23/2020,Kaduna,0,Kidnapper
 11/23/2020,Kano,0,Kidnapper
 11/23/2020,Delta,0,Kidnapper
@@ -13011,7 +13011,7 @@ Date,state,Death,type
 11/26/2020,Ondo,1,Kidnapper
 11/27/2020,Ekiti,1,Kidnapper
 11/29/2020,Rivers,0,Kidnapper
-11/29/2020,Nasarawa,0,Kidnapper
+11/29/2020,Nassarawa,0,Kidnapper
 11/30/2020,Edo,0,Kidnapper
 11/30/2020,Edo,0,Kidnapper
 12/2/2020,Edo,0,Kidnapper
@@ -13058,7 +13058,7 @@ Date,state,Death,type
 1/2/2021,Ondo,0,Kidnapper
 1/4/2021,Oyo,0,Kidnapper
 1/5/2021,Ondo,0,Kidnapper
-1/5/2021,Nasarawa,1,Kidnapper
+1/5/2021,Nassarawa,1,Kidnapper
 1/5/2021,Delta,0,Kidnapper
 1/5/2021,Gombe,1,Kidnapper
 1/6/2021,Delta,0,Kidnapper
@@ -13078,7 +13078,7 @@ Date,state,Death,type
 1/16/2021,Niger,0,Kidnapper
 1/17/2021,Osun,0,Kidnapper
 1/18/2021,Plateau,2,Kidnapper
-1/18/2021,Nasarawa,0,Kidnapper
+1/18/2021,Nassarawa,0,Kidnapper
 1/18/2021,Adamawa,0,Kidnapper
 1/19/2021,Niger,0,Kidnapper
 1/21/2021,Delta,0,Kidnapper
@@ -13208,13 +13208,13 @@ Date,state,Death,type
 4/24/2021,Osun,0,Kidnapper
 4/25/2021,Benue,0,Kidnapper
 4/25/2021,Federal Capital Territory,0,Kidnapper
-4/27/2021,Nasarawa,0,Kidnapper
+4/27/2021,Nassarawa,0,Kidnapper
 4/28/2021,Plateau,0,Kidnapper
 4/29/2021,Edo,0,Kidnapper
 5/1/2021,Taraba,0,Kidnapper
 5/1/2021,Ogun,0,Kidnapper
 5/1/2021,Kogi,1,Kidnapper
-5/1/2021,Nasarawa,0,Kidnapper
+5/1/2021,Nassarawa,0,Kidnapper
 5/2/2021,Kogi,2,Kidnapper
 4/30/2021,Kogi,0,Kidnapper
 4/30/2021,Cross River,0,Kidnapper
@@ -13272,7 +13272,7 @@ Date,state,Death,type
 6/16/2021,Ogun,1,Kidnapper
 6/16/2021,Ondo,2,Kidnapper
 6/16/2021,Enugu,1,Kidnapper
-6/20/2021,Nasarawa,1,Kidnapper
+6/20/2021,Nassarawa,1,Kidnapper
 6/21/2021,Kaduna,1,Kidnapper
 6/22/2021,Oyo,0,Kidnapper
 6/22/2021,Edo,1,Kidnapper
@@ -13304,7 +13304,7 @@ Date,state,Death,type
 7/7/2021,Kaduna,0,Kidnapper
 7/7/2021,Plateau,0,Kidnapper
 7/7/2021,Bauchi,0,Kidnapper
-7/10/2021,Nasarawa,0,Kidnapper
+7/10/2021,Nassarawa,0,Kidnapper
 7/11/2021,Zamfara,0,Kidnapper
 7/11/2021,Kaduna,0,Kidnapper
 7/9/2021,Kaduna,0,Kidnapper
@@ -13321,7 +13321,7 @@ Date,state,Death,type
 7/23/2021,Katsina,0,Kidnapper
 7/25/2021,Benue,0,Kidnapper
 7/26/2021,Edo,0,Kidnapper
-7/26/2021,Nasarawa,0,Kidnapper
+7/26/2021,Nassarawa,0,Kidnapper
 7/28/2021,Bayelsa,0,Kidnapper
 7/28/2021,Jigawa,0,Kidnapper
 7/29/2021,Benue,0,Kidnapper
@@ -13348,7 +13348,7 @@ Date,state,Death,type
 8/22/2021,Kwara,0,Kidnapper
 8/19/2021,Imo,1,Kidnapper
 8/23/2021,Kwara,0,Kidnapper
-8/24/2021,Nasarawa,0,Kidnapper
+8/24/2021,Nassarawa,0,Kidnapper
 8/25/2021,Katsina,0,Kidnapper
 8/28/2021,Plateau,1,Kidnapper
 8/28/2021,Osun,2,Kidnapper
@@ -13408,7 +13408,7 @@ Date,state,Death,type
 10/13/2021,Abia,0,Kidnapper
 10/14/2021,Kwara,0,Kidnapper
 10/15/2021,Katsina,0,Kidnapper
-10/16/2021,Nasarawa,0,Kidnapper
+10/16/2021,Nassarawa,0,Kidnapper
 10/18/2021,Zamfara,0,Kidnapper
 10/20/2021,Niger,0,Kidnapper
 10/20/2021,Zamfara,0,Kidnapper
@@ -13436,7 +13436,7 @@ Date,state,Death,type
 11/11/2021,Niger,0,Kidnapper
 11/13/2021,Cross River,0,Kidnapper
 11/19/2021,Imo,0,Kidnapper
-11/20/2021,Nasarawa,0,Kidnapper
+11/20/2021,Nassarawa,0,Kidnapper
 11/20/2021,Niger,0,Kidnapper
 11/22/2021,Ondo,0,Kidnapper
 11/19/2021,Kwara,1,Kidnapper
@@ -13490,12 +13490,12 @@ Date,state,Death,type
 1/9/2022,Plateau,0,Kidnapper
 1/9/2022,Edo,1,Kidnapper
 1/10/2022,Plateau,0,Kidnapper
-1/11/2022,Nasarawa,0,Kidnapper
+1/11/2022,Nassarawa,0,Kidnapper
 1/11/2022,Imo,0,Kidnapper
 1/12/2022,Kaduna,0,Kidnapper
 1/12/2022,Kano,0,Kidnapper
 1/12/2022,Plateau,0,Kidnapper
-1/13/2022,Nasarawa,0,Kidnapper
+1/13/2022,Nassarawa,0,Kidnapper
 1/16/2022,Ogun,0,Kidnapper
 1/16/2022,Plateau,0,Kidnapper
 1/16/2022,Ogun,0,Kidnapper
@@ -13587,7 +13587,7 @@ Date,state,Death,type
 5/16/2022,Ogun,0,Kidnapper
 5/17/2022,Adamawa,3,Kidnapper
 5/18/2022,Federal Capital Territory,0,Kidnapper
-5/20/2022,Nasarawa,1,Kidnapper
+5/20/2022,Nassarawa,1,Kidnapper
 5/21/2022,Anambra,0,Kidnapper
 5/21/2022,Anambra,1,Kidnapper
 5/21/2022,Delta,10,Kidnapper
@@ -13614,7 +13614,7 @@ Date,state,Death,type
 6/14/2022,Katsina,0,Kidnapper
 6/14/2022,Abia,0,Kidnapper
 6/14/2022,Adamawa,0,Kidnapper
-6/18/2022,Nasarawa,0,Kidnapper
+6/18/2022,Nassarawa,0,Kidnapper
 6/18/2022,Bauchi,0,Kidnapper
 6/19/2022,Edo,0,Kidnapper
 6/20/2022,Jigawa,0,Kidnapper
@@ -13624,7 +13624,7 @@ Date,state,Death,type
 6/21/2022,Kogi,0,Kidnapper
 6/22/2022,Ekiti,0,Kidnapper
 6/22/2022,Ebonyi,0,Kidnapper
-6/22/2022,Nasarawa,0,Kidnapper
+6/22/2022,Nassarawa,0,Kidnapper
 6/25/2022,Abia,0,Kidnapper
 6/25/2022,Zamfara,0,Kidnapper
 6/26/2022,Edo,4,Kidnapper
@@ -13692,7 +13692,7 @@ Date,state,Death,type
 11/13/2012,Kano,2,Robber
 11/18/2012,Yobe,1,Robber
 11/18/2012,Kaduna,1,Robber
-11/19/2012,Nasarawa,1,Robber
+11/19/2012,Nassarawa,1,Robber
 11/19/2012,Ogun,2,Robber
 11/21/2012,Ogun,1,Robber
 11/23/2012,Kano,2,Robber
@@ -13845,7 +13845,7 @@ Date,state,Death,type
 7/21/2017,Federal Capital Territory,0,Other
 7/27/2017,Anambra,1,Other
 8/8/2017,Federal Capital Territory,0,Other
-8/14/2017,Nasarawa,1,Other
+8/14/2017,Nassarawa,1,Other
 8/16/2017,Anambra,1,Other
 8/16/2017,Delta,1,Other
 9/3/2017,Osun,1,Other
@@ -14214,7 +14214,7 @@ Date,state,Death,type
 8/11/2014,Osun,0,Election-related Actor
 8/13/2014,Rivers,0,Election-related Actor
 8/15/2014,Kwara,0,Election-related Actor
-8/20/2014,Nasarawa,4,Election-related Actor
+8/20/2014,Nassarawa,4,Election-related Actor
 8/27/2014,Oyo,0,Election-related Actor
 8/31/2014,Oyo,0,Election-related Actor
 9/14/2014,Benue,0,Election-related Actor
@@ -14222,10 +14222,10 @@ Date,state,Death,type
 9/23/2014,Rivers,0,Election-related Actor
 9/25/2014,Ekiti,1,Election-related Actor
 10/11/2014,Edo,0,Election-related Actor
-10/16/2014,Nasarawa,0,Election-related Actor
+10/16/2014,Nassarawa,0,Election-related Actor
 10/22/2014,Rivers,0,Election-related Actor
-10/26/2014,Nasarawa,0,Election-related Actor
-11/6/2014,Nasarawa,0,Election-related Actor
+10/26/2014,Nassarawa,0,Election-related Actor
+11/6/2014,Nassarawa,0,Election-related Actor
 11/13/2014,Delta,4,Election-related Actor
 11/15/2014,Ogun,0,Election-related Actor
 11/18/2014,Akwa Ibom,0,Election-related Actor
@@ -14235,7 +14235,7 @@ Date,state,Death,type
 11/24/2014,Cross River,0,Election-related Actor
 11/25/2014,Oyo,0,Election-related Actor
 11/25/2014,Kwara,0,Election-related Actor
-12/1/2014,Nasarawa,4,Election-related Actor
+12/1/2014,Nassarawa,4,Election-related Actor
 12/2/2014,Lagos,4,Election-related Actor
 12/5/2014,Ebonyi,0,Election-related Actor
 12/7/2014,Gombe,0,Election-related Actor
@@ -14255,7 +14255,7 @@ Date,state,Death,type
 1/24/2015,Lagos,1,Election-related Actor
 1/28/2015,Ogun,2,Election-related Actor
 1/29/2015,Taraba,0,Election-related Actor
-1/30/2015,Nasarawa,0,Election-related Actor
+1/30/2015,Nassarawa,0,Election-related Actor
 2/1/2015,Benue,0,Election-related Actor
 2/2/2015,Lagos,6,Election-related Actor
 2/4/2015,Kwara,0,Election-related Actor
@@ -14267,7 +14267,7 @@ Date,state,Death,type
 2/16/2015,Borno,0,Election-related Actor
 2/17/2015,Rivers,1,Election-related Actor
 2/20/2015,Benue,0,Election-related Actor
-2/20/2015,Nasarawa,0,Election-related Actor
+2/20/2015,Nassarawa,0,Election-related Actor
 2/22/2015,Borno,0,Election-related Actor
 2/22/2015,Katsina,0,Election-related Actor
 2/25/2015,Lagos,3,Election-related Actor
@@ -14314,11 +14314,11 @@ Date,state,Death,type
 4/11/2015,Bauchi,1,Election-related Actor
 4/10/2015,Benue,2,Election-related Actor
 4/11/2015,Benue,1,Election-related Actor
-4/12/2015,Nasarawa,0,Election-related Actor
+4/12/2015,Nassarawa,0,Election-related Actor
 4/12/2015,Osun,3,Election-related Actor
 4/12/2015,Lagos,2,Election-related Actor
 4/13/2015,Imo,0,Election-related Actor
-4/18/2015,Nasarawa,0,Election-related Actor
+4/18/2015,Nassarawa,0,Election-related Actor
 4/21/2015,Kaduna,1,Election-related Actor
 4/25/2015,Kogi,1,Election-related Actor
 5/4/2015,Osun,0,Election-related Actor
@@ -14410,8 +14410,8 @@ Date,state,Death,type
 2/23/2019,Zamfara,0,Election-related Actor
 2/24/2019,Ogun,1,Election-related Actor
 2/24/2019,Bayelsa,0,Election-related Actor
-2/23/2019,Nasarawa,0,Election-related Actor
-2/24/2019,Nasarawa,0,Election-related Actor
+2/23/2019,Nassarawa,0,Election-related Actor
+2/24/2019,Nassarawa,0,Election-related Actor
 2/24/2019,Lagos,0,Election-related Actor
 2/24/2019,Anambra,0,Election-related Actor
 2/24/2019,Akwa Ibom,0,Election-related Actor
@@ -14423,7 +14423,7 @@ Date,state,Death,type
 3/1/2019,Ondo,0,Election-related Actor
 3/5/2019,Akwa Ibom,0,Election-related Actor
 3/6/2019,Kaduna,1,Election-related Actor
-3/6/2019,Nasarawa,0,Election-related Actor
+3/6/2019,Nassarawa,0,Election-related Actor
 3/7/2019,Lagos,2,Election-related Actor
 3/7/2019,Ogun,1,Election-related Actor
 3/7/2019,Ekiti,0,Election-related Actor
@@ -14451,7 +14451,7 @@ Date,state,Death,type
 3/9/2019,Kogi,1,Election-related Actor
 3/9/2019,Kogi,2,Election-related Actor
 3/9/2019,Ondo,4,Election-related Actor
-3/9/2019,Nasarawa,1,Election-related Actor
+3/9/2019,Nassarawa,1,Election-related Actor
 3/10/2019,Imo,0,Election-related Actor
 3/10/2019,Ogun,0,Election-related Actor
 3/12/2019,Taraba,8,Election-related Actor
@@ -15318,3 +15318,354 @@ Date,state,Death,type
 12/20/2022,Imo,0,Election-related Actor
 12/26/2022,Ebonyi,3,Election-related Actor
 12/28/2022,Oyo,1,Election-related Actor
+1/7/2023,Borno,35,Boko Haram
+1/13/2023,Borno,10,Boko Haram
+1/15/2023,Borno,3,Boko Haram
+1/28/2023,Borno,32,Boko Haram
+1/1/2023,Borno,33,State Actor
+1/1/2023,Zamfara,1,State Actor
+1/2/2023,Federal Capital Territory,1,State Actor
+1/2/2023,Katsina,1,State Actor
+1/2/2023,Kaduna,2,State Actor
+1/3/2023,Kaduna,2,State Actor
+1/4/2023,Edo,1,State Actor
+1/4/2023,Katsina,1,State Actor
+1/4/2023,Nassarawa,3,State Actor
+1/6/2023,Plateau,0,State Actor
+1/7/2023,Zamfara,2,State Actor
+1/7/2023,Bauchi,2,State Actor
+1/9/2023,Lagos,1,State Actor
+1/10/2023,Lagos,0,State Actor
+1/10/2023,Anambra,1,State Actor
+1/11/2023,Imo,5,State Actor
+1/7/2023,Ondo,0,State Actor
+1/12/2023,Edo,1,State Actor
+1/12/2023,Nassarawa,2,State Actor
+1/12/2023,Niger,4,State Actor
+1/13/2023,Borno,10,State Actor
+1/14/2023,Kaduna,1,State Actor
+1/15/2023,Borno,3,State Actor
+1/16/2023,Kaduna,2,State Actor
+1/16/2023,Delta,2,State Actor
+1/16/2023,Niger,42,State Actor
+1/17/2023,Niger,1,State Actor
+1/17/2023,Lagos,0,State Actor
+1/17/2023,Abia,3,State Actor
+1/18/2023,Imo,3,State Actor
+1/17/2023,Katsina,2,State Actor
+1/18/2023,Katsina,1,State Actor
+1/18/2023,Kebbi,7,State Actor
+1/16/2023,Delta,2,State Actor
+1/20/2023,Osun,2,State Actor
+1/21/2023,Imo,1,State Actor
+1/22/2023,Kwara,3,State Actor
+1/23/2023,Niger,40,State Actor
+1/23/2023,Borno,23,State Actor
+1/23/2023,Kaduna,3,State Actor
+1/24/2023,Nassarawa,56,State Actor
+1/24/2023,Niger,18,State Actor
+1/25/2023,Osun,1,State Actor
+1/25/2023,Niger,6,State Actor
+1/20/2023,Kano,1,State Actor
+1/28/2023,Ebonyi,1,State Actor
+1/28/2023,Federal Capital Territory,1,State Actor
+1/28/2023,Borno,32,State Actor
+1/26/2023,Delta,2,State Actor
+1/2/2023,Adamawa,0,Sectarian Actor
+1/3/2023,Benue,0,Sectarian Actor
+1/4/2023,Ondo,1,Sectarian Actor
+1/8/2023,Kwara,1,Sectarian Actor
+1/18/2023,Edo,3,Sectarian Actor
+1/19/2023,Benue,8,Sectarian Actor
+1/20/2023,Taraba,0,Sectarian Actor
+1/22/2023,Delta,1,Sectarian Actor
+1/23/2023,Delta,2,Sectarian Actor
+1/28/2023,Benue,12,Sectarian Actor
+1/29/2023,Benue,2,Sectarian Actor
+1/30/2023,Benue,5,Sectarian Actor
+1/31/2023,Benue,3,Sectarian Actor
+1/1/2023,Ebonyi,1,Other Armed Actor
+1/1/2023,Federal Capital Territory,0,Other Armed Actor
+1/1/2023,Ogun,3,Other Armed Actor
+1/1/2023,Oyo,5,Other Armed Actor
+1/1/2023,Kaduna,0,Other Armed Actor
+1/1/2023,Zamfara,1,Other Armed Actor
+1/1/2023,Anambra,4,Other Armed Actor
+1/2/2023,Anambra,1,Other Armed Actor
+1/2/2023,Ondo,1,Other Armed Actor
+1/2/2023,Imo,4,Other Armed Actor
+1/2/2023,Katsina,1,Other Armed Actor
+1/2/2023,Nassarawa,1,Other Armed Actor
+1/2/2023,Imo,0,Other Armed Actor
+1/2/2023,Kaduna,2,Other Armed Actor
+1/3/2023,Kaduna,2,Other Armed Actor
+1/3/2023,Anambra,1,Other Armed Actor
+1/3/2023,Ondo,5,Other Armed Actor
+1/3/2023,Delta,4,Other Armed Actor
+1/4/2023,Kogi,0,Other Armed Actor
+1/4/2023,Anambra,1,Other Armed Actor
+1/4/2023,Katsina,1,Other Armed Actor
+1/4/2023,Nassarawa,3,Other Armed Actor
+1/7/2023,Rivers,2,Other Armed Actor
+1/7/2023,Zamfara,2,Other Armed Actor
+1/8/2023,Anambra,0,Other Armed Actor
+1/9/2023,Kaduna,12,Other Armed Actor
+1/9/2023,Niger,1,Other Armed Actor
+1/10/2023,Anambra,4,Other Armed Actor
+1/10/2023,Imo,3,Other Armed Actor
+1/10/2023,Kwara,0,Other Armed Actor
+1/10/2023,Anambra,1,Other Armed Actor
+1/11/2023,Federal Capital Territory,1,Other Armed Actor
+1/11/2023,Kaduna,2,Other Armed Actor
+1/11/2023,Imo,5,Other Armed Actor
+1/12/2023,Anambra,4,Other Armed Actor
+1/12/2023,Nassarawa,2,Other Armed Actor
+1/12/2023,Niger,4,Other Armed Actor
+1/13/2023,Delta,2,Other Armed Actor
+1/14/2023,Niger,1,Other Armed Actor
+1/14/2023,Imo,3,Other Armed Actor
+1/14/2023,Kaduna,1,Other Armed Actor
+1/15/2023,Edo,4,Other Armed Actor
+1/15/2023,Niger,1,Other Armed Actor
+1/15/2023,Katsina,0,Other Armed Actor
+1/13/2023,Kwara,2,Other Armed Actor
+1/16/2023,Kaduna,2,Other Armed Actor
+1/17/2023,Abia,3,Other Armed Actor
+1/18/2023,Katsina,3,Other Armed Actor
+1/18/2023,Imo,3,Other Armed Actor
+1/17/2023,Katsina,2,Other Armed Actor
+1/18/2023,Katsina,1,Other Armed Actor
+1/18/2023,Kebbi,7,Other Armed Actor
+1/20/2023,Osun,2,Other Armed Actor
+1/20/2023,Ebonyi,2,Other Armed Actor
+1/21/2023,Bauchi,5,Other Armed Actor
+1/21/2023,Ebonyi,1,Other Armed Actor
+1/21/2023,Imo,1,Other Armed Actor
+1/21/2023,Rivers,0,Other Armed Actor
+1/21/2023,Niger,1,Other Armed Actor
+1/21/2023,Bauchi,1,Other Armed Actor
+1/22/2023,Niger,3,Other Armed Actor
+1/22/2023,Anambra,2,Other Armed Actor
+1/23/2023,Katsina,0,Other Armed Actor
+1/23/2023,Kaduna,3,Other Armed Actor
+1/23/2023,Anambra,0,Other Armed Actor
+1/24/2023,Jigawa,1,Other Armed Actor
+1/24/2023,Imo,1,Other Armed Actor
+1/25/2023,Kaduna,5,Other Armed Actor
+1/25/2023,Imo,3,Other Armed Actor
+1/25/2023,Lagos,2,Other Armed Actor
+1/25/2023,Niger,6,Other Armed Actor
+1/27/2023,Ebonyi,2,Other Armed Actor
+1/27/2023,Abia,0,Other Armed Actor
+1/28/2023,Ebonyi,3,Other Armed Actor
+1/28/2023,Enugu,2,Other Armed Actor
+1/28/2023,Imo,2,Other Armed Actor
+1/29/2023,Ebonyi,1,Other Armed Actor
+1/30/2023,Katsina,3,Other Armed Actor
+1/31/2023,Plateau,1,Other Armed Actor
+1/1/2023,Zamfara,0,Kidnapper
+1/5/2023,Oyo,0,Kidnapper
+1/6/2023,Plateau,0,Kidnapper
+1/6/2023,Delta,1,Kidnapper
+1/7/2023,Edo,0,Kidnapper
+1/7/2023,Bauchi,2,Kidnapper
+1/9/2023,Edo,0,Kidnapper
+1/9/2023,Edo,0,Kidnapper
+1/11/2023,Osun,0,Kidnapper
+1/12/2023,Plateau,0,Kidnapper
+1/12/2023,Edo,1,Kidnapper
+1/13/2023,Kogi,0,Kidnapper
+1/14/2023,Ekiti,0,Kidnapper
+1/14/2023,Kwara,0,Kidnapper
+1/13/2023,Osun,0,Kidnapper
+1/17/2023,Kaduna,6,Kidnapper
+1/19/2023,Kaduna,0,Kidnapper
+1/19/2023,Taraba,0,Kidnapper
+1/19/2023,Enugu,0,Kidnapper
+1/20/2023,Imo,0,Kidnapper
+1/20/2023,Nassarawa,0,Kidnapper
+1/20/2023,Plateau,1,Kidnapper
+1/22/2023,Imo,1,Kidnapper
+1/22/2023,Kwara,3,Kidnapper
+1/24/2023,Imo,0,Kidnapper
+1/24/2023,Osun,0,Kidnapper
+1/24/2023,Kaduna,0,Kidnapper
+1/20/2023,Osun,0,Kidnapper
+1/30/2023,Cross River,0,Kidnapper
+1/26/2023,Delta,2,Kidnapper
+1/4/2023,Edo,1,Robber
+1/8/2023,Anambra,1,Robber
+1/16/2023,Delta,2,Robber
+1/28/2023,Federal Capital Territory,1,Robber
+1/27/2023,Bauchi,0,Robber
+1/1/2023,Anambra,0,Other
+1/9/2023,Lagos,1,Other
+1/16/2023,Delta,2,Other
+1/17/2023,Niger,1,Other
+1/17/2023,Lagos,0,Other
+1/15/2023,Enugu,1,Election-related Actor
+1/18/2023,Edo,1,Election-related Actor
+1/20/2023,Rivers,0,Election-related Actor
+1/24/2023,Osun,2,Election-related Actor
+1/27/2023,Lagos,3,Election-related Actor
+1/30/2023,Rivers,0,Election-related Actor
+1/30/2023,Bauchi,1,Election-related Actor
+1/30/2023,Osun,0,Election-related Actor
+1/31/2023,Rivers,0,Election-related Actor
+1/31/2023,Ekiti,0,Election-related Actor
+2/25/2023,Borno,0,Boko Haram
+2/2/2023,Kaduna,0,State Actor
+2/2/2023,Anambra,2,State Actor
+2/2/2023,Edo,0,State Actor
+2/4/2023,Oyo,3,State Actor
+2/4/2023,Benue,6,State Actor
+2/4/2023,Borno,5,State Actor
+2/6/2023,Borno,42,State Actor
+2/7/2023,Ogun,1,State Actor
+2/7/2023,Lagos,1,State Actor
+2/9/2023,Kaduna,4,State Actor
+2/9/2023,Cross River,1,State Actor
+2/9/2023,Gombe,1,State Actor
+2/10/2023,Borno,40,State Actor
+2/11/2023,Niger,5,State Actor
+2/13/2023,Gombe,1,State Actor
+2/13/2023,Anambra,1,State Actor
+2/14/2023,Bauchi,0,State Actor
+2/15/2023,Edo,3,State Actor
+2/15/2023,Lagos,1,State Actor
+2/16/2023,Kaduna,7,State Actor
+2/17/2023,Adamawa,1,State Actor
+2/17/2023,Ogun,3,State Actor
+2/19/2023,Anambra,7,State Actor
+2/19/2023,Borno,10,State Actor
+2/20/2023,Borno,10,State Actor
+2/20/2023,Anambra,7,State Actor
+2/22/2023,Kaduna,5,State Actor
+2/24/2023,Zamfara,2,State Actor
+2/13/2023,Adamawa,10,State Actor
+2/13/2023,Borno,10,State Actor
+2/25/2023,Kogi,1,State Actor
+2/25/2023,Taraba,1,State Actor
+2/4/2023,Benue,6,Sectarian Actor
+2/4/2023,Ondo,6,Sectarian Actor
+2/6/2023,Anambra,8,Sectarian Actor
+2/6/2023,Enugu,1,Sectarian Actor
+2/8/2023,Ebonyi,1,Sectarian Actor
+2/9/2023,Benue,6,Sectarian Actor
+2/9/2023,Delta,1,Sectarian Actor
+2/11/2023,Kogi,1,Sectarian Actor
+2/26/2023,Benue,13,Sectarian Actor
+2/28/2023,Benue,7,Sectarian Actor
+2/1/2023,Anambra,1,Other Armed Actor
+2/2/2023,Katsina,41,Other Armed Actor
+2/2/2023,Ebonyi,1,Other Armed Actor
+2/2/2023,Kaduna,0,Other Armed Actor
+2/2/2023,Imo,1,Other Armed Actor
+2/2/2023,Anambra,2,Other Armed Actor
+2/3/2023,Cross River,3,Other Armed Actor
+2/3/2023,Kaduna,2,Other Armed Actor
+2/3/2023,Anambra,3,Other Armed Actor
+2/3/2023,Katsina,61,Other Armed Actor
+2/5/2023,Plateau,5,Other Armed Actor
+2/7/2023,Kaduna,2,Other Armed Actor
+2/7/2023,Anambra,1,Other Armed Actor
+2/7/2023,Imo,0,Other Armed Actor
+2/8/2023,Bauchi,1,Other Armed Actor
+2/9/2023,Delta,4,Other Armed Actor
+2/9/2023,Benue,1,Other Armed Actor
+2/10/2023,Anambra,3,Other Armed Actor
+2/10/2023,Ondo,0,Other Armed Actor
+2/11/2023,Niger,5,Other Armed Actor
+2/12/2023,Kebbi,5,Other Armed Actor
+2/12/2023,Imo,0,Other Armed Actor
+2/12/2023,Benue,8,Other Armed Actor
+2/12/2023,Imo,0,Other Armed Actor
+2/12/2023,Imo,0,Other Armed Actor
+2/12/2023,Cross River,0,Other Armed Actor
+2/13/2023,Anambra,1,Other Armed Actor
+2/14/2023,Rivers,9,Other Armed Actor
+2/14/2023,Lagos,1,Other Armed Actor
+2/14/2023,Federal Capital Territory,2,Other Armed Actor
+2/9/2023,Kaduna,0,Other Armed Actor
+2/15/2023,Bayelsa,3,Other Armed Actor
+2/16/2023,Kaduna,7,Other Armed Actor
+2/17/2023,Lagos,0,Other Armed Actor
+2/17/2023,Abia,3,Other Armed Actor
+2/18/2023,Anambra,3,Other Armed Actor
+2/19/2023,Anambra,7,Other Armed Actor
+2/19/2023,Kaduna,0,Other Armed Actor
+2/20/2023,Anambra,7,Other Armed Actor
+2/21/2023,Imo,1,Other Armed Actor
+2/21/2023,Plateau,0,Other Armed Actor
+2/22/2023,Kaduna,5,Other Armed Actor
+2/24/2023,Delta,2,Other Armed Actor
+2/25/2023,Taraba,1,Other Armed Actor
+2/24/2023,Niger,2,Other Armed Actor
+2/27/2023,Ebonyi,1,Other Armed Actor
+2/27/2023,Abia,0,Other Armed Actor
+2/28/2023,Niger,1,Other Armed Actor
+2/1/2023,Cross River,0,Kidnapper
+2/3/2023,Taraba,7,Kidnapper
+2/4/2023,Federal Capital Territory,0,Kidnapper
+2/13/2023,Gombe,1,Kidnapper
+2/14/2023,Anambra,0,Kidnapper
+2/14/2023,Anambra,1,Kidnapper
+2/18/2023,Anambra,0,Kidnapper
+2/22/2023,Imo,0,Kidnapper
+2/9/2023,Gombe,1,Robber
+2/2/2023,Edo,0,Other
+2/3/2023,Oyo,0,Other
+2/4/2023,Oyo,3,Other
+2/4/2023,Adamawa,0,Other
+2/7/2023,Ogun,1,Other
+2/14/2023,Bauchi,0,Other
+2/15/2023,Edo,3,Other
+2/17/2023,Ogun,3,Other
+2/4/2023,Gombe,0,Election-related Actor
+2/6/2023,Rivers,0,Election-related Actor
+2/9/2023,Rivers,0,Election-related Actor
+2/10/2023,Jigawa,1,Election-related Actor
+2/11/2023,Lagos,0,Election-related Actor
+2/16/2023,Anambra,0,Election-related Actor
+2/15/2023,Kwara,1,Election-related Actor
+2/17/2023,Ebonyi,0,Election-related Actor
+2/17/2023,Osun,3,Election-related Actor
+2/18/2023,Ebonyi,1,Election-related Actor
+2/20/2023,Kogi,0,Election-related Actor
+2/20/2023,Abia,0,Election-related Actor
+2/21/2023,Lagos,0,Election-related Actor
+2/21/2023,Rivers,0,Election-related Actor
+2/21/2023,Osun,2,Election-related Actor
+2/22/2023,Osun,5,Election-related Actor
+2/22/2023,Enugu,7,Election-related Actor
+2/22/2023,Ebonyi,1,Election-related Actor
+2/22/2023,Imo,1,Election-related Actor
+2/23/2023,Kano,4,Election-related Actor
+2/23/2023,Rivers,0,Election-related Actor
+2/23/2023,Lagos,0,Election-related Actor
+2/23/2023,Lagos,0,Election-related Actor
+2/24/2023,Anambra,0,Election-related Actor
+2/24/2023,Gombe,0,Election-related Actor
+2/24/2023,Imo,0,Election-related Actor
+2/24/2023,Imo,0,Election-related Actor
+2/25/2023,Kogi,1,Election-related Actor
+2/25/2023,Rivers,3,Election-related Actor
+2/25/2023,Katsina,0,Election-related Actor
+2/25/2023,Delta,0,Election-related Actor
+2/25/2023,Federal Capital Territory,0,Election-related Actor
+2/25/2023,Federal Capital Territory,0,Election-related Actor
+2/25/2023,Imo,0,Election-related Actor
+2/25/2023,Lagos,0,Election-related Actor
+2/25/2023,Bayelsa,0,Election-related Actor
+2/25/2023,Oyo,0,Election-related Actor
+2/25/2023,Federal Capital Territory,0,Election-related Actor
+2/25/2023,Lagos,0,Election-related Actor
+2/25/2023,Akwa Ibom,2,Election-related Actor
+2/25/2023,Gombe,1,Election-related Actor
+2/25/2023,Lagos,1,Election-related Actor
+2/26/2023,Kano,2,Election-related Actor
+2/26/2023,Kano,1,Election-related Actor
+2/26/2023,Anambra,0,Election-related Actor
+2/26/2023,Ondo,1,Election-related Actor
+2/27/2023,Delta,1,Election-related Actor
+2/27/2023,Plateau,0,Election-related Actor
