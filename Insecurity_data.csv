@@ -15856,3 +15856,341 @@ Date,state,Death,type
 3/20/2023,Kano,0,Election-related Actor
 3/20/2023,Kano,2,Election-related Actor
 3/21/2023,Ogun,0,Election-related Actor
+4/1/2023,Borno,0,Boko Haram
+4/3/2023,Adamawa,3,Boko Haram
+4/4/2023,Borno,1,Boko Haram
+4/13/2023,Yobe,11,Boko Haram
+4/10/2023,Borno,10,Boko Haram
+4/12/2023,Borno,6,Boko Haram
+4/24/2023,Borno,5,Boko Haram
+4/24/2023,Borno,1,Boko Haram
+4/26/2023,Borno,0,Boko Haram
+4/19/2023,Borno,18,Boko Haram
+4/20/2023,Borno,7,Boko Haram
+4/1/2023,Kaduna,11,State Actor
+4/1/2023,Borno,0,State Actor
+4/1/2023,Rivers,1,State Actor
+4/3/2023,Plateau,1,State Actor
+4/4/2023,Borno,18,State Actor
+4/5/2023,Lagos,1,State Actor
+4/5/2023,Delta,1,State Actor
+4/6/2023,Edo,4,State Actor
+4/6/2023,Lagos,1,State Actor
+4/8/2023,Zamfara,2,State Actor
+4/8/2023,Katsina,1,State Actor
+4/9/2023,Adamawa,1,State Actor
+4/9/2023,Zamfara,2,State Actor
+4/11/2023,Kaduna,2,State Actor
+4/12/2023,Kaduna,19,State Actor
+4/12/2023,Zamfara,15,State Actor
+4/14/2023,Katsina,2,State Actor
+4/14/2023,Nassarawa,3,State Actor
+4/14/2023,Kaduna,0,State Actor
+4/14/2023,Federal Capital Territory,1,State Actor
+4/15/2023,Kebbi,1,State Actor
+4/16/2023,Rivers,0,State Actor
+4/17/2023,Borno,1,State Actor
+4/17/2023,Zamfara,1,State Actor
+4/17/2023,Imo,3,State Actor
+4/18/2023,Imo,1,State Actor
+4/19/2023,Imo,0,State Actor
+4/9/2023,Borno,4,State Actor
+4/9/2023,Borno,10,State Actor
+4/10/2023,Borno,10,State Actor
+4/12/2023,Borno,6,State Actor
+4/22/2023,Zamfara,7,State Actor
+4/23/2023,Ebonyi,1,State Actor
+4/24/2023,Delta,0,State Actor
+4/24/2023,Borno,1,State Actor
+4/25/2023,Oyo,1,State Actor
+4/25/2023,Zamfara,3,State Actor
+4/25/2023,Zamfara,2,State Actor
+4/26/2023,Taraba,25,State Actor
+4/27/2023,Katsina,2,State Actor
+4/19/2023,Borno,18,State Actor
+4/20/2023,Borno,7,State Actor
+4/29/2023,Borno,20,State Actor
+4/30/2023,Zamfara,3,State Actor
+4/30/2023,Delta,1,State Actor
+4/25/2023,Kebbi,14,State Actor
+4/1/2023,Niger,1,Sectarian Actor
+4/2/2023,Benue,1,Sectarian Actor
+4/3/2023,Benue,3,Sectarian Actor
+4/4/2023,Benue,3,Sectarian Actor
+4/5/2023,Benue,51,Sectarian Actor
+4/5/2023,Delta,1,Sectarian Actor
+4/6/2023,Taraba,8,Sectarian Actor
+4/7/2023,Benue,43,Sectarian Actor
+4/7/2023,Sokoto,10,Sectarian Actor
+4/11/2023,Osun,0,Sectarian Actor
+4/15/2023,Bauchi,1,Sectarian Actor
+4/20/2023,Nassarawa,12,Sectarian Actor
+4/22/2023,Ondo,1,Sectarian Actor
+4/24/2023,Federal Capital Territory,3,Sectarian Actor
+4/25/2023,Benue,17,Sectarian Actor
+4/21/2023,Benue,4,Sectarian Actor
+4/25/2023,Niger,0,Sectarian Actor
+4/25/2023,Nassarawa,3,Sectarian Actor
+4/26/2023,Taraba,25,Sectarian Actor
+4/30/2023,Benue,2,Sectarian Actor
+4/30/2023,Delta,0,Sectarian Actor
+4/30/2023,Plateau,2,Sectarian Actor
+4/1/2023,Kaduna,11,Other Armed Actor
+4/2/2023,Zamfara,0,Other Armed Actor
+4/2/2023,Niger,2,Other Armed Actor
+4/2/2023,Kogi,10,Other Armed Actor
+4/2/2023,Kaduna,2,Other Armed Actor
+4/3/2023,Ekiti,2,Other Armed Actor
+4/3/2023,Kaduna,0,Other Armed Actor
+4/3/2023,Edo,1,Other Armed Actor
+4/4/2023,Kaduna,4,Other Armed Actor
+4/5/2023,Lagos,1,Other Armed Actor
+4/5/2023,Lagos,3,Other Armed Actor
+4/6/2023,Ondo,1,Other Armed Actor
+4/6/2023,Edo,4,Other Armed Actor
+4/6/2023,Nassarawa,1,Other Armed Actor
+4/6/2023,Ekiti,1,Other Armed Actor
+4/7/2023,Zamfara,0,Other Armed Actor
+4/7/2023,Rivers,1,Other Armed Actor
+4/8/2023,Federal Capital Territory,1,Other Armed Actor
+4/8/2023,Zamfara,2,Other Armed Actor
+4/8/2023,Katsina,1,Other Armed Actor
+4/9/2023,Zamfara,2,Other Armed Actor
+4/9/2023,Delta,1,Other Armed Actor
+4/7/2023,Lagos,1,Other Armed Actor
+4/11/2023,Kaduna,2,Other Armed Actor
+4/11/2023,Lagos,0,Other Armed Actor
+4/12/2023,Rivers,3,Other Armed Actor
+4/12/2023,Kaduna,8,Other Armed Actor
+4/12/2023,Kaduna,19,Other Armed Actor
+4/12/2023,Zamfara,15,Other Armed Actor
+4/14/2023,Katsina,2,Other Armed Actor
+4/15/2023,Kaduna,33,Other Armed Actor
+4/16/2023,Plateau,20,Other Armed Actor
+4/16/2023,Rivers,0,Other Armed Actor
+4/16/2023,Kaduna,1,Other Armed Actor
+4/16/2023,Niger,64,Other Armed Actor
+4/16/2023,Zamfara,12,Other Armed Actor
+4/17/2023,Zamfara,3,Other Armed Actor
+4/17/2023,Zamfara,1,Other Armed Actor
+4/18/2023,Rivers,2,Other Armed Actor
+4/18/2023,Ogun,1,Other Armed Actor
+4/19/2023,Taraba,3,Other Armed Actor
+4/19/2023,Benue,0,Other Armed Actor
+4/19/2023,Imo,0,Other Armed Actor
+4/14/2023,Rivers,0,Other Armed Actor
+4/19/2023,Bayelsa,1,Other Armed Actor
+4/21/2023,Imo,7,Other Armed Actor
+4/21/2023,Rivers,2,Other Armed Actor
+4/21/2023,Kano,1,Other Armed Actor
+4/22/2023,Plateau,1,Other Armed Actor
+4/22/2023,Kwara,2,Other Armed Actor
+4/22/2023,Zamfara,7,Other Armed Actor
+4/23/2023,Plateau,7,Other Armed Actor
+4/23/2023,Ondo,1,Other Armed Actor
+4/24/2023,Ondo,1,Other Armed Actor
+4/25/2023,Oyo,1,Other Armed Actor
+4/25/2023,Plateau,6,Other Armed Actor
+4/25/2023,Zamfara,3,Other Armed Actor
+4/25/2023,Zamfara,2,Other Armed Actor
+4/26/2023,Imo,1,Other Armed Actor
+4/26/2023,Ogun,1,Other Armed Actor
+4/27/2023,Rivers,2,Other Armed Actor
+4/27/2023,Zamfara,0,Other Armed Actor
+4/27/2023,Katsina,2,Other Armed Actor
+4/28/2023,Zamfara,2,Other Armed Actor
+4/29/2023,Niger,0,Other Armed Actor
+4/29/2023,Nassarawa,1,Other Armed Actor
+4/30/2023,Kebbi,40,Other Armed Actor
+4/30/2023,Zamfara,3,Other Armed Actor
+4/25/2023,Kebbi,14,Other Armed Actor
+4/2/2023,Kano,0,Kidnapper
+4/5/2023,Plateau,0,Kidnapper
+4/6/2023,Nassarawa,0,Kidnapper
+4/6/2023,Lagos,1,Kidnapper
+4/7/2023,Akwa Ibom,0,Kidnapper
+4/8/2023,Imo,1,Kidnapper
+4/9/2023,Adamawa,1,Kidnapper
+4/10/2023,Kano,1,Kidnapper
+4/10/2023,Kogi,1,Kidnapper
+4/13/2023,Ondo,0,Kidnapper
+4/14/2023,Nassarawa,3,Kidnapper
+4/15/2023,Benue,0,Kidnapper
+4/15/2023,Osun,0,Kidnapper
+4/16/2023,Ogun,0,Kidnapper
+4/17/2023,Federal Capital Territory,1,Kidnapper
+4/17/2023,Rivers,2,Kidnapper
+4/18/2023,Nassarawa,0,Kidnapper
+4/19/2023,Federal Capital Territory,0,Kidnapper
+4/20/2023,Enugu,0,Kidnapper
+4/23/2023,Ebonyi,1,Kidnapper
+4/23/2023,Rivers,0,Kidnapper
+4/24/2023,Anambra,0,Kidnapper
+4/24/2023,Delta,0,Kidnapper
+4/25/2023,Federal Capital Territory,0,Kidnapper
+4/27/2023,Delta,1,Kidnapper
+4/27/2023,Anambra,0,Kidnapper
+4/29/2023,Delta,0,Kidnapper
+4/30/2023,Kogi,1,Kidnapper
+4/30/2023,Delta,1,Kidnapper
+4/12/2023,Ogun,1,Robber
+4/18/2023,Imo,1,Robber
+4/14/2023,Kaduna,0,Other
+4/14/2023,Federal Capital Territory,1,Other
+4/19/2023,Lagos,0,Other
+4/19/2023,Bayelsa,1,Other
+4/23/2023,Federal Capital Territory,1,Other
+4/3/2023,Rivers,0,Election-related Actor
+4/6/2023,Rivers,0,Election-related Actor
+4/15/2023,Kano,6,Election-related Actor
+5/6/2023,Borno,12,Boko Haram
+5/10/2023,Borno,3,Boko Haram
+5/11/2023,Borno,10,Boko Haram
+5/14/2023,Borno,3,Boko Haram
+5/28/2023,Borno,3,Boko Haram
+5/3/2023,Enugu,1,State Actor
+5/4/2023,Delta,1,State Actor
+5/4/2023,Niger,24,State Actor
+5/4/2023,Lagos,0,State Actor
+5/4/2023,Benue,1,State Actor
+5/6/2023,Kogi,1,State Actor
+5/6/2023,Borno,12,State Actor
+5/7/2023,Kaduna,1,State Actor
+5/7/2023,Anambra,4,State Actor
+5/8/2023,Ogun,0,State Actor
+5/3/2023,Zamfara,2,State Actor
+5/4/2023,Zamfara,1,State Actor
+5/10/2023,Anambra,7,State Actor
+5/11/2023,Borno,10,State Actor
+5/11/2023,Ekiti,1,State Actor
+5/14/2023,Katsina,1,State Actor
+5/14/2023,Sokoto,0,State Actor
+5/17/2023,Zamfara,10,State Actor
+5/19/2023,Rivers,2,State Actor
+5/20/2023,Delta,2,State Actor
+5/21/2023,Benue,1,State Actor
+5/18/2023,Kaduna,1,State Actor
+5/24/2023,Ebonyi,5,State Actor
+5/28/2023,Borno,3,State Actor
+5/29/2023,Katsina,2,State Actor
+5/30/2023,Oyo,1,State Actor
+5/2/2023,Osun,3,Sectarian Actor
+5/7/2023,Niger,1,Sectarian Actor
+5/5/2023,Benue,6,Sectarian Actor
+5/6/2023,Benue,1,Sectarian Actor
+5/8/2023,Benue,3,Sectarian Actor
+5/9/2023,Benue,6,Sectarian Actor
+5/14/2023,Taraba,20,Sectarian Actor
+5/12/2023,Akwa Ibom,4,Sectarian Actor
+5/13/2023,Benue,6,Sectarian Actor
+5/13/2023,Benue,3,Sectarian Actor
+5/20/2023,Imo,1,Sectarian Actor
+5/20/2023,Benue,6,Sectarian Actor
+5/21/2023,Taraba,6,Sectarian Actor
+5/21/2023,Plateau,1,Sectarian Actor
+5/21/2023,Benue,18,Sectarian Actor
+5/21/2023,Plateau,4,Sectarian Actor
+5/24/2023,Plateau,3,Sectarian Actor
+5/1/2023,Kaduna,2,Other Armed Actor
+5/2/2023,Abia,1,Other Armed Actor
+5/2/2023,Delta,1,Other Armed Actor
+5/3/2023,Rivers,1,Other Armed Actor
+5/3/2023,Enugu,1,Other Armed Actor
+5/4/2023,Anambra,3,Other Armed Actor
+5/4/2023,Niger,24,Other Armed Actor
+5/4/2023,Lagos,0,Other Armed Actor
+5/5/2023,Ogun,3,Other Armed Actor
+5/5/2023,Delta,1,Other Armed Actor
+5/6/2023,Rivers,3,Other Armed Actor
+5/7/2023,Taraba,1,Other Armed Actor
+5/7/2023,Kaduna,0,Other Armed Actor
+5/7/2023,Kaduna,1,Other Armed Actor
+5/7/2023,Kaduna,1,Other Armed Actor
+5/7/2023,Ebonyi,0,Other Armed Actor
+5/8/2023,Ogun,0,Other Armed Actor
+5/8/2023,Akwa Ibom,16,Other Armed Actor
+5/9/2023,Plateau,0,Other Armed Actor
+5/9/2023,Ondo,3,Other Armed Actor
+5/9/2023,Anambra,0,Other Armed Actor
+5/9/2023,Imo,1,Other Armed Actor
+5/3/2023,Zamfara,2,Other Armed Actor
+5/4/2023,Zamfara,1,Other Armed Actor
+5/10/2023,Zamfara,1,Other Armed Actor
+5/10/2023,Plateau,2,Other Armed Actor
+5/11/2023,Kaduna,9,Other Armed Actor
+5/11/2023,Kebbi,1,Other Armed Actor
+5/11/2023,Nassarawa,38,Other Armed Actor
+5/12/2023,Kaduna,2,Other Armed Actor
+5/12/2023,Niger,0,Other Armed Actor
+5/14/2023,Taraba,0,Other Armed Actor
+5/14/2023,Zamfara,18,Other Armed Actor
+5/14/2023,Katsina,1,Other Armed Actor
+5/14/2023,Sokoto,0,Other Armed Actor
+5/12/2023,Kaduna,0,Other Armed Actor
+5/15/2023,Kaduna,1,Other Armed Actor
+5/16/2023,Plateau,87,Other Armed Actor
+5/16/2023,Anambra,7,Other Armed Actor
+5/16/2023,Nassarawa,4,Other Armed Actor
+5/16/2023,Rivers,1,Other Armed Actor
+5/17/2023,Kogi,1,Other Armed Actor
+5/17/2023,Zamfara,10,Other Armed Actor
+5/18/2023,Anambra,5,Other Armed Actor
+5/20/2023,Delta,2,Other Armed Actor
+5/20/2023,Imo,2,Other Armed Actor
+5/20/2023,Kwara,1,Other Armed Actor
+5/20/2023,Kaduna,9,Other Armed Actor
+5/19/2023,Delta,2,Other Armed Actor
+5/14/2023,Oyo,11,Other Armed Actor
+5/22/2023,Ebonyi,1,Other Armed Actor
+5/22/2023,Kaduna,0,Other Armed Actor
+5/20/2023,Kaduna,2,Other Armed Actor
+5/23/2023,Kogi,0,Other Armed Actor
+5/24/2023,Ebonyi,5,Other Armed Actor
+5/24/2023,Delta,2,Other Armed Actor
+5/25/2023,Imo,2,Other Armed Actor
+5/25/2023,Abia,1,Other Armed Actor
+5/26/2023,Zamfara,22,Other Armed Actor
+5/26/2023,Kano,6,Other Armed Actor
+5/29/2023,Lagos,0,Other Armed Actor
+5/29/2023,Rivers,4,Other Armed Actor
+5/30/2023,Oyo,1,Other Armed Actor
+5/30/2023,Zamfara,25,Other Armed Actor
+5/30/2023,Kaduna,1,Other Armed Actor
+5/30/2023,Rivers,5,Other Armed Actor
+5/31/2023,Rivers,1,Other Armed Actor
+5/1/2023,Nassarawa,1,Kidnapper
+5/2/2023,Edo,0,Kidnapper
+5/2/2023,Kaduna,0,Kidnapper
+5/3/2023,Federal Capital Territory,0,Kidnapper
+5/4/2023,Kwara,1,Kidnapper
+5/4/2023,Delta,1,Kidnapper
+5/6/2023,Kogi,1,Kidnapper
+5/7/2023,Anambra,4,Kidnapper
+5/7/2023,Akwa Ibom,0,Kidnapper
+5/8/2023,Osun,0,Kidnapper
+5/8/2023,Delta,0,Kidnapper
+5/9/2023,Plateau,0,Kidnapper
+5/11/2023,Imo,0,Kidnapper
+5/14/2023,Federal Capital Territory,0,Kidnapper
+5/15/2023,Kano,1,Kidnapper
+5/15/2023,Ekiti,0,Kidnapper
+5/16/2023,Kwara,1,Kidnapper
+5/16/2023,Rivers,0,Kidnapper
+5/17/2023,Federal Capital Territory,2,Kidnapper
+5/18/2023,Delta,0,Kidnapper
+5/19/2023,Rivers,2,Kidnapper
+5/20/2023,Imo,0,Kidnapper
+5/21/2023,Benue,1,Kidnapper
+5/24/2023,Adamawa,0,Kidnapper
+5/26/2023,Imo,0,Kidnapper
+5/29/2023,Katsina,2,Kidnapper
+5/30/2023,Kaduna,0,Kidnapper
+5/2/2023,Bayelsa,1,Robber
+5/4/2023,Benue,1,Robber
+5/9/2023,Oyo,2,Robber
+5/12/2023,Kwara,1,Robber
+5/24/2023,Ebonyi,1,Robber
+5/2/2023,Oyo,2,Other
+5/9/2023,Oyo,2,Other
+5/9/2023,Oyo,2,Other
+5/11/2023,Ekiti,1,Other
